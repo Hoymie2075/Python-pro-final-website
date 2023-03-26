@@ -1,78 +1,76 @@
 Afghanistan:
-
 Population: Approximately 38 million people
 Area: 652,864 square kilometers
 Capital: Kabul
 Interesting Fact: Afghanistan is known for being the world's largest producer of opium.
-Albania:
 
+Albania:
 Population: Approximately 2.8 million people
 Area: 28,748 square kilometers
 Capital: Tirana
 Interesting Fact: Albania is home to the world's deepest underwater cave, known as the "Cave of Sondi."
-Algeria:
 
+Algeria:
 Population: Approximately 45 million people
 Area: 2,381,741 square kilometers
 Capital: Algiers
 Interesting Fact: Algeria is home to the largest sand desert in the world, the Sahara Desert.
-Andorra:
 
+Andorra:
 Population: Approximately 78,000 people
 Area: 468 square kilometers
 Capital: Andorra la Vella
 Interesting Fact: Andorra is known for being a tax haven and has no income tax for individuals.
-Angola:
 
+Angola:
 Population: Approximately 33 million people
 Area: 1,246,700 square kilometers
 Capital: Luanda
 Interesting Fact: Angola is home to the Kalandula Falls, the second largest waterfall by volume in Africa.
-Antigua and Barbuda:
 
+Antigua and Barbuda:
 Population: Approximately 98,000 people
 Area: 442 square kilometers
 Capital: St. John's
 Interesting Fact: Antigua and Barbuda are known for their stunning beaches and crystal-clear waters, and are popular tourist destinations.
-Argentina:
 
+Argentina:
 Population: Approximately 45 million people
 Area: 2,780,400 square kilometers
 Capital: Buenos Aires
 Interesting Fact: Argentina is known for being the birthplace of tango, a popular dance style that originated in Buenos Aires.
-Armenia:
 
+Armenia:
 Population: Approximately 3 million people
 Area: 29,743 square kilometers
 Capital: Yerevan
 Interesting Fact: Armenia is home to Mount Ararat, a dormant volcano and national symbol that is said to be the resting place of Noah's Ark according to the Bible.
-Australia:
 
+Australia:
 Population: Approximately 25 million people
 Area: 7,692,024 square kilometers
 Capital: Canberra
 Interesting Fact: Australia is the world's largest island and the smallest continent, and is home to a wide variety of unique animals, including kangaroos, koalas, and wallabies.
 
 Bahrain:
-
 Population: Approximately 1.7 million people
 Area: 765 square kilometers
 Capital: Manama
 Interesting Fact: Bahrain is known for being one of the world's smallest countries and has the first post-oil economy in the Persian Gulf region.
-Bangladesh:
 
+Bangladesh:
 Population: Approximately 166 million people
 Area: 147,570 square kilometers
 Capital: Dhaka
 Interesting Fact: Bangladesh is home to the world's largest delta, the Ganges-Brahmaputra Delta, and is known for being one of the most densely populated countries in the world.
-Barbados:
 
+Barbados:
 Population: Approximately 290,000 people
 Area: 430 square kilometers
 Capital: Bridgetown
 Interesting Fact: Barbados is known for being the birthplace of the music genre known as "calypso."
-Belarus:
 
+Belarus:
 Population: Approximately 9.4 million people
 Area: 207,600 square kilometers
 Capital: Minsk
