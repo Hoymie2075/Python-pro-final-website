@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f5f5;
+  }
+  
+  footer {
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  footer p {
+    margin-bottom: 0;
+
+
+  }
+
+  .my-text {
+    margin-top: 20px;
+  }
+
+  .my-text-r {
+    margin-top: 20px;
+    padding-left: 600px;
+
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh; /* Set the height of the container to make it vertically centered */
+  }
+  
+
+  
