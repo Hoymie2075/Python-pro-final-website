@@ -6,32 +6,22 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bootstrap Header and Footer</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
+  <!-- <link rel="stylesheet" href="style.css"> -->
 </head>
 <body>
 
-  <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Logo</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <p class="my-text">Left Side</p>
-          </li>
-          <li class="nav-item active">
-            <p class="container">Middle Side</p>
-          </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-    </nav>
-  </header>
+  <nav class="navbar bg-secondary text-white">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/59794/planet-logo-clipart-xl.png" alt="Logo" width="60" height="40" class="d-inline-block align-text-top">
+
+      </a>
+      <a class="btn btn-warning" href="/ukraine.html" role="button">Ukraine</a>
+      <a class="btn btn-warning" href="#" role="button">German</a>
+      <a class="btn btn-warning" href="#" role="button">USA</a>
+
+    </div>
+  </nav>
 
 
   <div class="card" style="width: 18rem;">
@@ -42,19 +32,13 @@
     </div>
   </div>
 
-  <footer>
-    <div class="container-fluid bg-light fixed-bottom">
-      <div class="row">
-        <div class="col-sm-6">
-          <p>Left Side</p>
-        </div>
-        <div class="col-sm-6 text-right">
-          <a href="#"><button type="button" class="btn btn-primary">GitHub</button></a>
-          <a href="#"><button type="button" class="btn btn-primary">Instagram</button></a>
-          <a href="#"><button type="button" class="btn btn-primary">Twitter</button></a>
-        </div>
-      </div>
+  <footer class="bg-light text-center text-lg-start fixed-bottom">
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2020 Copyright:
+      <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
     </div>
+    <!-- Copyright -->
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
