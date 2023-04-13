@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script src="script.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bootstrap Header and Footer</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <!-- <link rel="stylesheet" href="style.css"> -->
+
 </head>
 <body>
 
@@ -19,6 +21,15 @@
       <a class="btn btn-warning" href="/ukraine.html" role="button">Ukraine</a>
       <a class="btn btn-warning" href="#" role="button">German</a>
       <a class="btn btn-warning" href="#" role="button">USA</a>
+      <input type="text" id="searchInput" onkeyup="searchCards()" placeholder="Введіть текст для пошуку...">
+        <ul id="cardList">
+          <li>Карточка 1</li>
+          <li>Карточка 2</li>
+          <li>Карточка 3</li>
+          <li>Карточка 4</li>
+          <li>Карточка 5</li>
+        </ul>
+
 
     </div>
   </nav>

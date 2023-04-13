@@ -1,11 +1,30 @@
 {
-  "Afghanistan": 
-    {
-      "Population": "Approximately 38 million people",
-      "Area": "652,864 square kilometers",
-      "Capital": "Kabul",
-      "Interesting Fact": "Afghanistan is known for being the world's largest producer of opium."
-    },
-    
-
-}
+  "Afghanistan": {
+  "Population": "Approximately 38 million people",
+  "Area": "652,864 square kilometers",
+  "Capital": "Kabul",
+  "Interesting Fact": "Afghanistan is known for being the world's largest producer of opium."
+  },
+  "Albania": {
+  "Population": "Approximately 2.8 million people",
+  "Area": "28,748 square kilometers",
+  "Capital": "Tirana",
+  "Interesting Fact": "Albania is home to the world's deepest underwater cave, known as the 'Cave of Sondi.'"
+  },
+  "Algeria": {
+  "Population": "Approximately 45 million people",
+  "Area": "2,381,741 square kilometers",
+  "Capital": "Algiers",
+  "Interesting Fact": "Algeria is home to the largest sand desert in the world, the Sahara Desert."
+  },
+  "Andorra": {
+  "Population": "Approximately 78,000 people",
+  "Area": "468 square kilometers",
+  "Capital": "Andorra la Vella",
+  "Interesting Fact": "Andorra is known for being a tax haven and has no income tax for individuals."
+  }
+  }
+  
+  
+  
+  
