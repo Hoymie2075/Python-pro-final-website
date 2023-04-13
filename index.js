@@ -33,7 +33,7 @@ function renderCountries(countriesArray) {
             <p>Population: ${country.population}</p>
             <p>Area: ${country.area}</p>
             <p>Capital: ${country.capital}</p>
-            <p>Interesting Facts: ${country.facts}</p>
+            <p>Interesting Facts: ${country.interestingFact}</p>
         `;
 
         // Append the card to the container element
