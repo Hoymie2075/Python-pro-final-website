@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* body {
-=======
-body {
->>>>>>> 06515d96477b5a0f5be73a0d1ab39f41c0b5465d
     background-color: #f5f5f5;
   }
   
@@ -32,7 +28,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-<<<<<<< HEAD
     height: 5vh; 
   }
    */
@@ -50,10 +45,4 @@ body {
   width: calc(33.33% - 20px); /* Set card width to 33.33% with 20px gap between cards */
   margin-bottom: 10px;
 }
-=======
-    height: 5vh; /* Set the height of the container to make it vertically centered */
-  }
-  
-
->>>>>>> 06515d96477b5a0f5be73a0d1ab39f41c0b5465d
   
