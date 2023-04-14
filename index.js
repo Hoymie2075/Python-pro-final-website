@@ -29,12 +29,12 @@ function renderCountries(countriesArray) {
 
         // Create HTML content for the card using country object properties
         cardDiv.innerHTML = `
-            <h2>${country.name}</h2>
-            <p>Population: ${country.population}</p>
-            <p>Area: ${country.area}</p>
-            <p>Capital: ${country.capital}</p>
-            <p>Interesting Facts: ${country.interestingFact}</p>
-            <img src=${country.Image} class="country-image">
+            <img src="${country.Image}" class="card-img-top myimage" alt="...">
+            <h2 class="text-center">${country.name}</h2>
+            <p><b>Population:</b> ${country.population}</p>
+            <p><b>Area:</b> ${country.area}</p>
+            <p><b>Capital:</b> ${country.capital}</p>
+            <p><b>Interesting Facts:</b> ${country.interestingFact}</p>
         `;
 
         // Append the card to the container element
