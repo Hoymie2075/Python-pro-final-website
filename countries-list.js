@@ -5,7 +5,7 @@ export const countries = [
     area: '652,864 square kilometers',
     capital: 'Kabul',
     interestingFact: 'Afghanistan is known for being the worlds largest producer of opium.',
-    Image: 'https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220815-taliban-kabul-mn-1015-0f80da.jpg'
+    Image: 'https://images.unsplash.com/photo-1601036101227-cce11533a7f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1210&q=80'
   },
   {
     name: 'Albania',
@@ -13,7 +13,7 @@ export const countries = [
     area: '28,748 square kilometers',
     capital: 'Tirana',
     interestingFact: 'Albania is home to the worlds deepest underwater cave, known as the "Cave of Sondi."',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1623167428954-be47340e0812?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: 'Algeria',
@@ -21,7 +21,7 @@ export const countries = [
     area: '2,381,741 square kilometers',
     capital: 'Algiers',
     interestingFact: 'Algeria is home to the largest sand desert in the world, the Sahara Desert.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1535585538107-e457d37fbde5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: 'Andorra',
@@ -29,7 +29,7 @@ export const countries = [
     area: '468 square kilometers',
     capital: 'Andorra la Vella',
     interestingFact: 'Andorra is known for being a tax haven and has no income tax for individuals.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1602776078317-4b7904602277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: 'Angola',
@@ -37,7 +37,7 @@ export const countries = [
     area: '1,246,700 square kilometers',
     capital: 'Luanda',
     interestingFact: 'Angola is home to the Kalandula Falls, the second largest waterfall by volume in Africa.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1520709087497-0749666fe1d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1026&q=80'
   },
   {
     name: 'Antigua and Barbuda',
@@ -45,7 +45,7 @@ export const countries = [
     area: '442 square kilometers',
     capital: 'St. Johns',
     interestingFact: 'Antigua and Barbuda are known for their stunning beaches and crystal-clear waters, and are popular tourist destinations.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1527354490195-9abc2e0b93cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80'
   },
   {
     name: 'Argentina',
@@ -53,7 +53,7 @@ export const countries = [
     area: '2,780,400 square kilometers',
     capital: 'Buenos Aires',
     interestingFact: 'Argentina is known for being the birthplace of tango, a popular dance style that originated in Buenos Aires.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1617548437735-92d875423353?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: 'Armenia',
@@ -61,7 +61,7 @@ export const countries = [
     area: '29,743 square kilometers',
     capital: 'Yerevan',
     interestingFact: 'Armenia is home to Mount Ararat, a dormant volcano and national symbol that is said to be the resting place of Noah\'s Ark according to the Bible.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: 'Australia',
@@ -69,7 +69,7 @@ export const countries = [
     area: '7,692,024 square kilometers',
     capital: 'Canberra',
     interestingFact: 'Australia is the world\'s largest island and the smallest continent, and is home to a wide variety of unique animals, including kangaroos, koalas, and wallabies.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80'
   },
   {
     name: 'Bahrain',
@@ -77,7 +77,7 @@ export const countries = [
     area: '765 square kilometers',
     capital: 'Manama',
     interestingFact: 'Bahrain is known for being one of the world\'s smallest countries and has the first post-oil economy in the Persian Gulf region.',
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1548755212-2b46ee259868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: "Bangladesh",
@@ -85,7 +85,7 @@ export const countries = [
     area: "147,570 square kilometers",
     capital: "Dhaka",
     interestingFact: "Bangladesh is home to the world's largest delta, the Ganges-Brahmaputra Delta, and is known for being one of the most densely populated countries in the world.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1624395149011-470cf6f6ec02?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1051&q=80'
   },
   {
     name: "Barbados",
@@ -93,7 +93,7 @@ export const countries = [
     area: "430 square kilometers",
     capital: "Bridgetown",
     interestingFact: "Barbados is known for being the birthplace of the music genre known as 'calypso.'",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1626023523650-f9fe5e85cacc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: "Belarus",
@@ -101,7 +101,7 @@ export const countries = [
     area: "207,600 square kilometers",
     capital: "Minsk",
     interestingFact: "Belarus is known for being the last dictatorship in Europe and is sometimes called the 'last Soviet republic.'",
-    Image: '...'
+    Image: 'https://qph.cf2.quoracdn.net/main-qimg-d845ab37e138f3b8694bcb03f0a335fb-pjlq'
   },
   {
     name: "Belgium",
@@ -109,7 +109,7 @@ export const countries = [
     area: "30,528 square kilometers",
     capital: "Brussels",
     interestingFact: "Belgium is known for being the birthplace of the comic strip character Tintin and for producing some of the world's finest chocolate and beer.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1569878165730-a4d34917f3d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
   },
   {
     name: "Belize",
