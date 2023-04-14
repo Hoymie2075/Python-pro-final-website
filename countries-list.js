@@ -4,7 +4,8 @@ export const countries = [
     population: 'Approximately 38 million people',
     area: '652,864 square kilometers',
     capital: 'Kabul',
-    interestingFact: 'Afghanistan is known for being the worlds largest producer of opium.'
+    interestingFact: 'Afghanistan is known for being the worlds largest producer of opium.',
+    Image: 'https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220815-taliban-kabul-mn-1015-0f80da.jpg'
   },
   {
     name: 'Albania',
@@ -315,173 +316,173 @@ export const countries = [
     interestingFact: "The Dominican Republic is known for its beautiful beaches and vibrant nightlife, as well as for being the birthplace of several famous baseball players."
   },
   {
-    country: 'Estonia',
+    name: 'Estonia',
     population: 'Approximately 1.3 million people',
     area: '45,227 square kilometers',
     capital: 'Tallinn',
-    fact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.'
+    interestingFact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.'
     },
     {
-    country: 'Ethiopia',
+    name: 'Ethiopia',
     population: 'Approximately 115 million people',
     area: '1,104,300 square kilometers',
     capital: 'Addis Ababa',
-    fact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.'
+    interestingFact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.'
     },
     {
-    country: 'Eswatini (formerly Swaziland)',
+    name: 'Eswatini (formerly Swaziland)',
     population: 'Approximately 1.1 million people',
     area: '17,364 square kilometers',
     capital: 'Mbabane',
-    fact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.'
+    interestingFact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.'
     },
     {
-    country: 'Fiji',
+    name: 'Fiji',
     population: 'Approximately 896,000 people',
     area: '18,274 square kilometers',
     capital: 'Suva',
-    fact: 'Fiji is known for its stunning beaches, clear waters, and coral reefs, making it a popular tourist destination for scuba diving and snorkeling.'
+    interestingFact: 'Fiji is known for its stunning beaches, clear waters, and coral reefs, making it a popular tourist destination for scuba diving and snorkeling.'
     },
     {
-    country: 'Finland',
+    name: 'Finland',
     population: 'Approximately 5.5 million people',
     area: '338,424 square kilometers',
     capital: 'Helsinki',
-    fact: 'Finland is known for its beautiful scenery, including vast forests, numerous lakes, and the Northern Lights, as well as for being the home of Santa Claus in Lapland.'
+    interestingFact: 'Finland is known for its beautiful scenery, including vast forests, numerous lakes, and the Northern Lights, as well as for being the home of Santa Claus in Lapland.'
     },
     {
-    country: 'France',
+    name: 'France',
     population: 'Approximately 67 million people',
     area: '643,801 square kilometers',
     capital: 'Paris',
-    fact: 'France is famous for its fashion, art, and cuisine, including wine, cheese, and pastries. It is also home to famous landmarks such as the Eiffel Tower and the Palace of Versailles.'
+    interestingFact: 'France is famous for its fashion, art, and cuisine, including wine, cheese, and pastries. It is also home to famous landmarks such as the Eiffel Tower and the Palace of Versailles.'
     },
     {
-    country: 'Gambia',
+    name: 'Gambia',
     population: 'Approximately 2.4 million people',
     area: '10,689 square kilometers',
     capital: 'Banjul',
-    fact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.'
+    interestingFact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.'
     },
     {
-    country: 'Georgia',
+    name: 'Georgia',
     population: 'Approximately 3.7 million people',
     area: '69,700 square kilometers',
     capital: 'Tbilisi',
-    fact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.'
+    interestingFact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.'
     },
     {
-    country: 'DRC (Democratic Republic of Congo)',
+    name: 'DRC (Democratic Republic of Congo)',
     population: 'Approximately 105 million people',
     area: '2,345,410 square kilometers',
     capital: 'Kinshasa',
     interestingFact: 'The Democratic Republic of Congo is known for being home to the second-largest rainforest in the world, as well as for its rich natural resources, including gold, diamonds, and copper.'
     },
     {
-    country: 'DPRK (Democratic Peoples Republic of Korea)',
+    name: 'DPRK (Democratic Peoples Republic of Korea)',
     population: 'Approximately 25 million people',
     area: '120,540 square kilometers',
     capital: 'Pyongyang',
     interestingFact: 'The Democratic Peoples Republic of Korea is known for being one of the most isolated and secretive countries in the world, with strict government control over all aspects of society.'
     },
     {
-    country: 'Djibouti',
+    name: 'Djibouti',
     population: 'Approximately 1 million people',
     area: '23,200 square kilometers',
     capital: 'Djibouti City',
     interestingFact: 'Djibouti is known for being one of the hottest countries in the world, with temperatures regularly reaching over 40 degrees Celsius (104 degrees Fahrenheit).'
     },
     {
-    country: 'Ecuador',
+    name: 'Ecuador',
     population: 'Approximately 17.5 million people',
     area: '283,560 square kilometers',
     capital: 'Quito',
     interestingFact: 'Ecuador is home to the Galapagos Islands, a volcanic archipelago known for its unique wildlife and Charles Darwins groundbreaking studies.'
     },
     {
-    country: 'Egypt',
+    name: 'Egypt',
     population: 'Approximately 104 million people',
     area: '1,001,450 square kilometers',
     capital: 'Cairo',
     interestingFact: 'Egypt is home to one of the worlds oldest civilizations, with a rich history dating back to ancient times, including the Pyramids of Giza and the Sphinx.'
     },
     {
-    country: 'El Salvador',
+    name: 'El Salvador',
     population: 'Approximately 6.5 million people',
     area: '21,040 square kilometers',
     capital: 'San Salvador',
     interestingFact: 'El Salvador is known for its active volcanoes and beautiful national parks, as well as its delicious cuisine, including pupusas and horchata.'
     },
     {
-    country: 'Equatorial Guinea',
+    name: 'Equatorial Guinea',
     population: 'Approximately 1.4 million people',
     area: '28,051 square kilometers',
     capital: 'Malabo',
     interestingFact: 'Equatorial Guinea is one of the smallest countries in Africa and is the only Spanish-speaking country on the continent.'
     },
     {
-    country: 'Eritrea',
+    name: 'Eritrea',
     population: 'Approximately 3.5 million people',
     area: '117,600 square kilometers',
     capital: 'Asmara',
     interestingFact: 'Eritrea is located along the Red Sea and is known for its unique architecture, which combines Art Deco and Italian colonial styles.'
     },
     {
-    country: 'Estonia',
+    name: 'Estonia',
     population: 'Approximately 1.3 million people',
     area: '45,227 square kilometers',
     capital: 'Tallinn',
     interestingFact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.'
-  },
-  {
-    country: 'Ethiopia',
+    },
+    {
+    name: 'Ethiopia',
     population: 'Approximately 115 million people',
     area: '1,104,300 square kilometers',
     capital: 'Addis Ababa',
     interestingFact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.'
-  },
-  {
-    country: 'Eswatini (formerly Swaziland)',
+    },
+    {
+    name: 'Eswatini (formerly Swaziland)',
     population: 'Approximately 1.1 million people',
     area: '17,364 square kilometers',
     capital: 'Mbabane',
     interestingFact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.'
-  },
-  {
-    country: 'Fiji',
+    },
+    {
+    name: 'Fiji',
     population: 'Approximately 896,000 people',
     area: '18,274 square kilometers',
     capital: 'Suva',
     interestingFact: 'Fiji is known for its stunning beaches, clear waters, and coral reefs, making it a popular tourist destination for scuba diving and snorkeling.'
-  },
-  {
-    country: 'Finland',
+    },
+    {
+    name: 'Finland',
     population: 'Approximately 5.5 million people',
     area: '338,424 square kilometers',
     capital: 'Helsinki',
     interestingFact: 'Finland is known for its beautiful scenery, including vast forests, numerous lakes, and the Northern Lights, as well as for being the home of Santa Claus in Lapland.'
-  },
-  {
-    country: 'France',
+    },
+    {
+    name: 'France',
     population: 'Approximately 67 million people',
     area: '643,801 square kilometers',
     capital: 'Paris',
     interestingFact: 'France is famous for its fashion, art, and cuisine, including wine, cheese, and pastries. It is also home to famous landmarks such as the Eiffel Tower and the Palace of Versailles.'
-  },
-  {
-    country: 'Gambia',
+    },
+    {
+    name: 'Gambia',
     population: 'Approximately 2.4 million people',
     area: '10,689 square kilometers',
     capital: 'Banjul',
     interestingFact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.'
-  },
-  {
-    country: 'Georgia',
+    },
+    {
+    name: 'Georgia',
     population: 'Approximately 3.7 million people',
     area: '69,700 square kilometers',
     capital: 'Tbilisi',
     interestingFact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.'
-  },
+    },
   {
     name: "Germany",
     population: "Approximately 83 million people",
@@ -595,61 +596,61 @@ export const countries = [
       "Iran is home to one of the oldest continuous civilizations in the world, with a rich cultural heritage dating back to ancient Persia.",
   },
   {
-    country: 'Iraq',
+    name: 'Iraq',
     population: 'Approximately 40 million people',
     area: '438,317 square kilometers',
     capital: 'Baghdad',
     interestingFact: 'Iraq is home to the ancient city of Babylon, which was one of the most important cities of the ancient world.'
-  },
-  {
-    country: 'Ireland',
+    },
+    {
+    name: 'Ireland',
     population: 'Approximately 4.9 million people',
     area: '70,273 square kilometers',
     capital: 'Dublin',
     interestingFact: 'Ireland is known for its stunning natural beauty, including rugged coastlines, rolling green hills, and misty landscapes.'
-  },
-  {
-    country: 'Israel',
+    },
+    {
+    name: 'Israel',
     population: 'Approximately 9.3 million people',
     area: '22,072 square kilometers',
     capital: 'Jerusalem',
     interestingFact: 'Israel is the only country in the world with a majority Jewish population, and it is considered to be the homeland of the Jewish people.'
-  },
-  {
-    country: 'Italy',
+    },
+    {
+    name: 'Italy',
     population: 'Approximately 60 million people',
     area: '301,340 square kilometers',
     capital: 'Rome',
     interestingFact: 'Italy is known for its rich history and cultural heritage, and is home to numerous UNESCO World Heritage Sites, including the Colosseum and the Leaning Tower of Pisa.'
-  },
-  {
-    country: 'Ivory Coast (Cote d\'Ivoire)',
+    },
+    {
+    name: 'Ivory Coast (Cote dIvoire)',
     population: 'Approximately 27 million people',
     area: '322,463 square kilometers',
     capital: 'Yamoussoukro',
-    interestingFact: 'Ivory Coast is the world\'s leading producer of cocoa, and also produces large quantities of coffee, palm oil, and rubber.'
-  },
-  {
-    country: 'Iceland',
+    interestingFact: 'Ivory Coast is the worlds leading producer of cocoa, and also produces large quantities of coffee, palm oil, and rubber.'
+    },
+    {
+    name: 'Iceland',
     population: 'Approximately 340,000 people',
     area: '103,000 square kilometers',
     capital: 'Reykjavik',
-    interestingFact: 'Iceland is known for its breathtaking natural landscapes, including glaciers, hot springs, and volcanoes. It is also home to the world\'s oldest parliament, the Althing, which was established in 930 AD.'
-  },
-  {
-    country: 'Japan',
+    interestingFact: 'Iceland is known for its breathtaking natural landscapes, including glaciers, hot springs, and volcanoes. It is also home to the worlds oldest parliament, the Althing, which was established in 930 AD.'
+    },
+    {
+    name: 'Japan',
     population: 'Approximately 126 million people',
     area: '377,975 square kilometers',
     capital: 'Tokyo',
     interestingFact: 'Japan is known for its technological advancements, including being a world leader in robotics and producing many popular video game consoles.'
-  },
-  {
-    country: 'Jordan',
+    },
+    {
+    name: 'Jordan',
     population: 'Approximately 10.5 million people',
     area: '89,342 square kilometers',
     capital: 'Amman',
     interestingFact: 'Jordan is home to the ancient city of Petra, which is a UNESCO World Heritage Site and one of the New Seven Wonders of the World.'
-  },
+    },
   {
     name: "Jamaica",
     population: "Approximately 2.9 million people",
@@ -756,334 +757,334 @@ export const countries = [
     interestingFact: 'Libya is home to some of the world\'s most extensive and well-preserved Roman ruins, including the ancient city of Leptis Magna.'
   },
   {
-    country: "Liechtenstein",
+    name: "Liechtenstein",
     population: "38,244",
     area: "160 square kilometers",
     capital: "Vaduz",
     interestingFact: "Liechtenstein is the only country in the world that is doubly landlocked, meaning it is surrounded by countries that are also landlocked."
-  },
-  {
-    country: "Lithuania",
+    },
+    {
+    name: "Lithuania",
     population: "2.8 million",
     area: "65,300 square kilometers",
     capital: "Vilnius",
     interestingFact: "Lithuania is the geographic center of Europe, according to calculations based on the continent's borders."
-  },
-  {
-    country: "Luxembourg",
+    },
+    {
+    name: "Luxembourg",
     population: "634,730",
     area: "2,586 square kilometers",
     capital: "Luxembourg City",
     interestingFact: "Luxembourg is the world's only remaining sovereign grand duchy, meaning it is ruled by a grand duke or duchess."
-  },
-  {
-    country: "Macedonia",
+    },
+    {
+    name: "Macedonia",
     population: "2.08 million",
     area: "25,713 square kilometers",
     capital: "Skopje",
     interestingFact: "Macedonia is known for its stunning natural beauty, including the Ohrid Lake, which is one of the oldest and deepest lakes in Europe."
-  },
-  {
-    country: "Madagascar",
+    },
+    {
+    name: "Madagascar",
     population: "29.9 million",
     area: "587,041 square kilometers",
     capital: "Antananarivo",
     interestingFact: "Madagascar is home to a variety of unique flora and fauna, including lemurs, baobab trees, and the Madagascar hissing cockroach."
-  },
-  {
-    country: "Malawi",
+    },
+    {
+    name: "Malawi",
     population: "20.3 million",
     area: "118,484 square kilometers",
     capital: "Lilongwe",
     interestingFact: "Lake Malawi, located in the eastern part of the country, is home to more fish species than any other lake in the world."
-  },
-  {
-    country: "Malaysia",
+    },
+    {
+    name: "Malaysia",
     population: "32.7 million",
     area: "330,803 square kilometers",
     capital: "Kuala Lumpur",
     interestingFact: "Malaysia is a multicultural country with a diverse population, including Malays, Chinese, Indians, and indigenous groups."
-  },
-  {
-    country: "Maldives",
+    },
+    {
+    name: "Maldives",
     population: "530,953",
     area: "300 square kilometers",
     capital: "Malé",
     interestingFact: "The Maldives is the lowest country in the world, with an average ground level of just 1.5 meters above sea level."
-  },
-  {
-    country: 'Mali',
+    },
+    {
+    name: 'Mali',
     population: '20.9 million',
     area: '1,240,192 square kilometers',
     capital: 'Bamako',
     interestingFact: 'Timbuktu, located in northern Mali, was once an important center of learning and trade in the region.'
-  },
-  {
-    country: 'Malta',
+    },
+    {
+    name: 'Malta',
     population: '514,564',
     area: '316 square kilometers',
     capital: 'Valletta',
     interestingFact: 'Malta is home to a number of historic sites and landmarks, including the Megalithic Temples of Malta, which date back to 3600 BCE.'
-  },
-  {
-    country: 'Marshall Islands',
+    },
+    {
+    name: 'Marshall Islands',
     population: '59,190',
     area: '181.43 square kilometers',
     capital: 'Majuro',
     interestingFact: 'The Marshall Islands are home to the largest atoll in the world, Kwajalein Atoll, which is also used as a missile testing site by the United States military.'
-  },
-  {
-    country: 'Mauritania',
+    },
+    {
+    name: 'Mauritania',
     population: '4.5 million',
     area: '1,030,700 square kilometers',
     capital: 'Nouakchott',
     interestingFact: 'The ancient city of Chinguetti, located in the Sahara desert, is home to a collection of medieval manuscripts that are considered some of the most valuable in the Islamic world.'
-  },
-  {
-    country: 'Mauritius',
+    },
+    {
+    name: 'Mauritius',
     population: '1.3 million',
     area: '2,040 square kilometers',
     capital: 'Port Louis',
     interestingFact: 'Mauritius is home to a number of endemic species, including the pink pigeon, which was once on the brink of extinction but has since made a comeback.'
-  },
-  {
-    country: 'Mexico',
+    },
+    {
+    name: 'Mexico',
     population: '130.2 million',
     area: '1,964,375 square kilometers',
     capital: 'Mexico City',
     interestingFact: 'Mexico is known for its rich history and culture, including ancient Mayan and Aztec ruins, colorful traditional dress, and delicious cuisine.'
-  },
-  {
-    country: 'Micronesia',
+    },
+    {
+    name: 'Micronesia',
     population: '115,023',
     area: '702 square kilometers',
     capital: 'Palikir',
-    interestingFact: 'Micronesia is home to some of the world\'s most pristine coral reefs, making it a popular destination for divers and snorkelers.'
-  },
-  {
-    country: "Moldova",
+    interestingFact: 'Micronesia is home to some of the worlds most pristine coral reefs, making it a popular destination for divers and snorkelers.'
+    },
+    {
+    name: "Moldova",
     population: "2.6 million",
     area: "33,846 square kilometers",
     capital: "Chisinau",
     interestingFact: "Moldova is home to the largest wine cellar in the world, the Milestii Mici Winery, which holds over 2 million bottles of wine."
-  },
-  {
-    country: "Monaco",
+    },
+    {
+    name: "Monaco",
     population: "39,242",
     area: "2.02 square kilometers",
     capital: "Monaco-Ville",
     interestingFact: "Monaco is the second smallest country in the world, after the Vatican City."
-  },
-  {
-    country: "Mongolia",
+    },
+    {
+    name: "Mongolia",
     population: "3.3 million",
     area: "1.56 million square kilometers",
     capital: "Ulaanbaatar",
     interestingFact: "Mongolia is known for its beautiful and rugged landscapes, including the Gobi Desert and the Altai Mountains."
-  },
-  {
-    country: "Montenegro",
+    },
+    {
+    name: "Montenegro",
     population: "628,066",
     area: "13,812 square kilometers",
     capital: "Podgorica",
     interestingFact: "Montenegro is known for its stunning coastline and historic old towns, including the fortified city of Kotor."
-  },
-  {
-    country: "Morocco",
+    },
+    {
+    name: "Morocco",
     population: "36.91 million",
     area: "446,550 square kilometers",
     capital: "Rabat",
     interestingFact: "Morocco is known for its vibrant culture, colorful markets, and beautiful architecture, including the stunning Hassan II Mosque in Casablanca."
-  },
-  {
-    country: "Mozambique",
+    },
+    {
+    name: "Mozambique",
     population: "31.26 million",
     area: "799,380 square kilometers",
     capital: "Maputo",
     interestingFact: "Mozambique is home to some of the most beautiful beaches and coral reefs in the world, including the stunning Bazaruto Archipelago."
-  },
-  {
-    country: "Myanmar (Burma)",
+    },
+    {
+    name: "Myanmar (Burma)",
     population: "54.47 million",
     area: "676,578 square kilometers",
     capital: "Naypyidaw",
     interestingFact: "Myanmar is home to thousands of ancient temples and pagodas, including the famous Shwedagon Pagoda in Yangon."
-  },
-  {
-    country: "Namibia",
+    },
+    {
+    name: "Namibia",
     population: "2.54 million",
     area: "825,615 square kilometers",
     capital: "Windhoek",
     interestingFact: "Namibia is home to the world's largest population of free-roaming cheetahs."
-  },
-  {
-    country: 'Nauru',
+    },
+    {
+    name: 'Nauru',
     population: '11 thousand',
     area: '21 square kilometers',
     capital: 'Yaren District',
     interestingFact: "Nauru is the world's smallest island country."
-  },
-  {
-    country: 'Nepal',
+    },
+    {
+    name: 'Nepal',
     population: '29.3 million',
     area: '147,181 square kilometers',
     capital: 'Kathmandu',
     interestingFact: "Nepal is home to Mount Everest, the world's tallest mountain."
-  },
-  {
-    country: 'Netherlands',
+    },
+    {
+    name: 'Netherlands',
     population: '17.6 million',
     area: '41,543 square kilometers',
     capital: 'Amsterdam (constitutional capital) and The Hague (seat of government)',
     interestingFact: 'The Netherlands is known for its tulips and windmills.'
-  },
-  {
-    country: 'New Zealand',
+    },
+    {
+    name: 'New Zealand',
     population: '4.8 million',
     area: '270,467 square kilometers',
     capital: 'Wellington',
     interestingFact: 'New Zealand is famous for its breathtaking landscapes and adventure sports.'
-  },
-  {
-    country: 'Nicaragua',
+    },
+    {
+    name: 'Nicaragua',
     population: '6.6 million',
     area: '130,373 square kilometers',
     capital: 'Managua',
-    interestingFact: 'Nicaragua has numerous active volcanoes, including one that is believed to be the world\'s largest.'
-  },
-  {
-    country: 'Niger',
+    interestingFact: 'Nicaragua has numerous active volcanoes, including one that is believed to be the worlds largest.'
+    },
+    {
+    name: 'Niger',
     population: '24.2 million',
     area: '1,267,000 square kilometers',
     capital: 'Niamey',
     interestingFact: 'Niger is home to the largest protected area of giraffes in West Africa.'
-  },
-  {
-    country: 'Nigeria',
+    },
+    {
+    name: 'Nigeria',
     population: '206 million',
     area: '923,768 square kilometers',
     capital: 'Abuja',
     interestingFact: 'Nigeria is the most populous country in Africa.'
-  },
-  {
-    country: 'Norway',
+    },
+    {
+    name: 'Norway',
     population: '5.4 million',
     area: '385,207 square kilometers',
     capital: 'Oslo',
     interestingFact: 'Norway is known for its stunning fjords and Northern Lights.'
-  },
-  {
-    country: "Oman",
+    },
+    {
+    name: "Oman",
     population: "5.2 million",
     area: "309,500 square kilometers",
     capital: "Muscat",
     interestingFact: "Oman is known for its frankincense, which has been traded for over 5,000 years and was once valued as highly as gold."
-  },
-  {
-    country: "Pakistan",
+    },
+    {
+    name: "Pakistan",
     population: "220 million",
     area: "796,095 square kilometers",
     capital: "Islamabad",
     interestingFact: "Pakistan has the world's second-highest peak, K2, which is also known as Mount Godwin-Austen."
-  },
-  {
-    country: "Palau",
+    },
+    {
+    name: "Palau",
     population: "18,000",
     area: "459 square kilometers",
     capital: "Ngerulmud",
     interestingFact: "Palau is known for its beautiful and diverse marine life, and it was one of the world's first countries to establish a shark sanctuary."
-  },
-  {
-    country: "Panama",
+    },
+    {
+    name: "Panama",
     population: "4.4 million",
     area: "75,517 square kilometers",
     capital: "Panama City",
     interestingFact: "The Panama Canal, which connects the Atlantic and Pacific Oceans, is one of the world's greatest engineering feats."
-  },
-  {
-    country: "Papua New Guinea",
+    },
+    {
+    name: "Papua New Guinea",
     population: "8.8 million",
     area: "462,840 square kilometers",
     capital: "Port Moresby",
     interestingFact: "Papua New Guinea is one of the world's most culturally diverse countries, with over 850 indigenous languages spoken."
-  },
-  {
-    country: "Paraguay",
+    },
+    {
+    name: "Paraguay",
     population: "7.3 million",
     area: "406,752 square kilometers",
     capital: "Asunción",
     interestingFact: "Paraguay is known for its traditional harp music, which is a UNESCO Intangible Cultural Heritage of Humanity."
-  },
-  {
-    country: "Peru",
+    },
+    {
+    name: "Peru",
     population: "33 million",
     area: "496,225 square kilometers",
     capital: "Lima",
     interestingFact: "Peru is home to the ancient Incan ruins of Machu Picchu, which is one of the New Seven Wonders of the World."
-  },
-  {
-    country: "Philippines",
+    },
+    {
+    name: "Philippines",
     population: "110 million",
     area: "300,000 square kilometers",
     capital: "Manila",
     interestingFact: "The Philippines has more than 7,000 islands, making it one of the world's largest archipelagos."
-  },
-  {
-    country: "Poland",
+    },
+    {
+    name: "Poland",
     population: "38 million",
     area: "312,696 square kilometers",
     capital: "Warsaw",
     interestingFact: "Poland is home to Europe's last remaining primeval forest, the Białowieża Forest, which is a UNESCO World Heritage site."
-  },
-  {
-    country: "Portugal",
+    },
+    {
+    name: "Portugal",
     population: "10 million",
     area: "92,212 square kilometers",
     capital: "Lisbon",
     interestingFact: "Portugal is the oldest country in Europe, with a history that dates back to the 12th century."
-  },
-  {
-    country: "Qatar",
+    },
+    {
+    name: "Qatar",
     population: "2.7 million",
     area: "11,586 square kilometers",
     capital: "Doha",
     interestingFact: "Qatar is home to the world's largest artificial island, The Pearl-Qatar, which was built using reclaimed land and features luxury residences, hotels, and marinas."
-  },
-  {
-    country: "Romania",
+    },
+    {
+    name: "Romania",
     population: "19.5 million",
     area: "238,391 square kilometers",
     capital: "Bucharest",
     interestingFact: "The Palace of the Parliament in Bucharest is the second-largest administrative building in the world, after the Pentagon in the United States."
-  },
-  {
-    country: "Russian Federation",
+    },
+    {
+    name: "rusia",
     population: "144.5 million",
     area: "17,098,242 square kilometers",
-    capital: "Moscow",
+    capital: "moscow",
     interestingFact: "The president is asshole. Like most of the people who lives there."
-  },
-  {
-    country: "Rwanda",
+    },
+    {
+    name: "Rwanda",
     population: "13.7 million",
     area: "26,338 square kilometers",
     capital: "Kigali",
-    interestingFact: "Rwanda is known as the \"Land of a Thousand Hills\" due to its hilly and mountainous terrain."
-  },
-  {
-    country: "St Kitts & Nevis",
+    interestingFact: "Rwanda is known as the Land of a Thousand Hills due to its hilly and mountainous terrain."
+    },
+    {
+    name: "St Kitts & Nevis",
     population: "56,000",
     area: "261 square kilometers",
     capital: "Basseterre",
     interestingFact: "St Kitts & Nevis is one of the smallest countries in the world, and the only country to have a UNESCO World Heritage Site that encompasses the entire island - Brimstone Hill Fortress National Park."
-  },
-  {
-    country: "St Lucia",
+    },
+    {
+    name: "St Lucia",
     population: "183,000",
     area: "616 square kilometers",
     capital: "Castries",
     interestingFact: "St Lucia is home to the world's only drive-in volcano, the Sulphur Springs, where visitors can take a mud bath in the mineral-rich hot springs."
-  },
+    },
   {
     name: "Saint Vincent & the Grenadines",
     population: "110,000",
@@ -1215,64 +1216,64 @@ export const countries = [
     population: "43 million",
     area: "1,861,484 square kilometers",
     capital: "Khartoum",
-    fact: "Sudan is home to over 100 pyramids, which are located in the ancient city of Meroe and date back to the Kingdom of Kush."
-  },
-  {
+    interestingFact: "Sudan is home to over 100 pyramids, which are located in the ancient city of Meroe and date back to the Kingdom of Kush."
+    },
+    {
     name: "Suriname",
     population: "600,000",
     area: "163,820 square kilometers",
     capital: "Paramaribo",
-    fact: "Suriname is one of the most ethnically diverse countries in the world, with over 20 different ethnic groups living within its borders."
-  },
-  {
+    interestingFact: "Suriname is one of the most ethnically diverse countries in the world, with over 20 different ethnic groups living within its borders."
+    },
+    {
     name: "Eswatini (formerly Swaziland)",
     population: "1.1 million",
     area: "17,364 square kilometers",
     capital: "Mbabane (administrative), Lobamba (legislative, royal and traditional)",
-    fact: "Eswatini is known for its traditional Reed Dance ceremony, in which young, unmarried women dance for the king and present him with reeds as a symbol of their chastity."
-  },
-  {
+    interestingFact: "Eswatini is known for its traditional Reed Dance ceremony, in which young, unmarried women dance for the king and present him with reeds as a symbol of their chastity."
+    },
+    {
     name: "Sweden",
     population: "10.4 million",
     area: "450,295 square kilometers",
     capital: "Stockholm",
-    fact: "Sweden is home to the world's first national park, established in 1909 in the region of Sarek."
-  },
-  {
+    interestingFact: "Sweden is home to the world's first national park, established in 1909 in the region of Sarek."
+    },
+    {
     name: "Switzerland",
     population: "8.6 million",
     area: "41,290 square kilometers",
     capital: "Bern",
-    fact: "Switzerland is known for its high quality of life, and has been ranked as the world's happiest country multiple times by the World Happiness Report."
-  },
-  {
+    interestingFact: "Switzerland is known for its high quality of life, and has been ranked as the world's happiest country multiple times by the World Happiness Report."
+    },
+    {
     name: "Syria",
     population: "18 million",
     area: "185,180 square kilometers",
     capital: "Damascus",
-    fact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus."
-  },
-  {
+    interestingFact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus."
+    },
+    {
     name: "Taiwan",
     population: "23 million",
     area: "36,193 square kilometers",
     capital: "Taipei",
-    fact: "Taiwan is known for its night markets, where locals and tourists can find a variety of street food, clothing, and other goods."
-  },
-  {
+    interestingFact: "Taiwan is known for its night markets, where locals and tourists can find a variety of street food, clothing, and other goods."
+    },
+    {
     name: "Tajikistan",
     population: "9 million",
     area: "143,100 square kilometers",
     capital: "Dushanbe",
-    fact: "Tajikistan is home to the Pamir Mountains, which contain some of the highest peaks in the world and are a popular destination for hikers and mountaineers."
-  },
-  {
+    interestingFact: "Tajikistan is home to the Pamir Mountains, which contain some of the highest peaks in the world and are a popular destination for hikers and mountaineers."
+    },
+    {
     name: "Tanzania",
     population: "61 million",
     area: "947,303 square kilometers",
     capital: "Dodoma",
-    fact: "Tanzania is home to the Serengeti National Park, which is famous for its annual wildebeest migration and is a popular destination for wildlife safaris."
-  },
+    interestingFact: "Tanzania is home to the Serengeti National Park, which is famous for its annual wildebeest migration and is a popular destination for wildlife safaris."
+    },
   {
     name: "Sudan",
     population: "43 million",
@@ -1393,39 +1394,39 @@ export const countries = [
   interestingFact: "Vatican City is the smallest country in the world, and is home to many important religious sites, including St. Peter's Basilica and the Sistine Chapel."
   },
   {
-    country: "Venezuela",
-    population: "28 million",
-    area: "916,445 square kilometers",
-    capital: "Caracas",
-    interestingFact: "Venezuela has the largest oil reserves in the world."
+  name: "Venezuela",
+  population: "28 million",
+  area: "916,445 square kilometers",
+  capital: "Caracas",
+  interestingFact: "Venezuela has the largest oil reserves in the world."
   },
   {
-    country: "Vietnam",
-    population: "97 million",
-    area: "331,212 square kilometers",
-    capital: "Hanoi",
-    interestingFact: "Vietnam is known for its beautiful natural scenery, including the stunning Halong Bay."
+  name: "Vietnam",
+  population: "97 million",
+  area: "331,212 square kilometers",
+  capital: "Hanoi",
+  interestingFact: "Vietnam is known for its beautiful natural scenery, including the stunning Halong Bay."
   },
   {
-    country: "Yemen",
-    population: "30 million",
-    area: "527,968 square kilometers",
-    capital: "Sana'a",
-    interestingFact: "Yemen is home to several UNESCO World Heritage Sites, including the old city of Sana'a and the ancient fortified city of Shibam."
+  name: "Yemen",
+  population: "30 million",
+  area: "527,968 square kilometers",
+  capital: "Sana'a",
+  interestingFact: "Yemen is home to several UNESCO World Heritage Sites, including the old city of Sana'a and the ancient fortified city of Shibam."
   },
   {
-    country: "Zambia",
-    population: "18 million",
-    area: "752,612 square kilometers",
-    capital: "Lusaka",
-    interestingFact: "Zambia is home to Victoria Falls, one of the largest waterfalls in the world."
+  name: "Zambia",
+  population: "18 million",
+  area: "752,612 square kilometers",
+  capital: "Lusaka",
+  interestingFact: "Zambia is home to Victoria Falls, one of the largest waterfalls in the world."
   },
   {
-    country: "Zimbabwe",
-    population: "15 million",
-    area: "390,757 square kilometers",
-    capital: "Harare",
-    interestingFact: "Zimbabwe is known for its ancient ruins, including the Great Zimbabwe ruins, which are believed to have been built between the 11th and 15th centuries."
+  name: "Zimbabwe",
+  population: "15 million",
+  area: "390,757 square kilometers",
+  capital: "Harare",
+  interestingFact: "Zimbabwe is known for its ancient ruins, including the Great Zimbabwe ruins, which are believed to have been built between the 11th and 15th centuries."
   }
 
 ];

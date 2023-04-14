@@ -45,4 +45,16 @@
   width: calc(33.33% - 20px); /* Set card width to 33.33% with 20px gap between cards */
   margin-bottom: 10px;
 }
-  
+
+#cardDiv {
+  position: relative;
+}
+
+.country-image {
+  position: absolute;
+  top: 0.15;
+  right: 10px;
+  transform: translate(50%, -50%);
+  max-height: 150px;
+  max-width: 150px;
+}
