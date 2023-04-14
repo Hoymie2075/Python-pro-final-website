@@ -29,7 +29,7 @@ function renderCountries(countriesArray) {
 
         // Create HTML content for the card using country object properties
         cardDiv.innerHTML = `
-            <img src="${country.Image}" class="card-img-top myimage" alt="...">
+            <img src="${country.Image}" class="card-img-top myimage">
             <h2 class="text-center">${country.name}</h2>
             <p><b>Population:</b> ${country.population}</p>
             <p><b>Area:</b> ${country.area}</p>
