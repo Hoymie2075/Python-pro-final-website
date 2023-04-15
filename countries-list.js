@@ -117,7 +117,7 @@ export const countries = [
     area: "22,966 square kilometers",
     capital: "Belmopan",
     interestingFact: "Belize is home to the world's second largest barrier reef, the Mesoamerican Barrier Reef System.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1625105938842-e7320298fbb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80'
   },
   {
     name: "Benin",
@@ -125,7 +125,7 @@ export const countries = [
     area: "114,763 square kilometers",
     capital: "Porto-Novo (official capital), Cotonou (administrative capital)",
     interestingFact: "Benin is known for being the birthplace of the voodoo religion.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1600241005059-71de13374958?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80'
   },
   {
     name: "Bhutan",
@@ -133,7 +133,7 @@ export const countries = [
     area: "38,394 square kilometers",
     capital: "Thimphu",
     interestingFact: "Bhutan is known for being one of the only countries in the world to measure Gross National Happiness instead of Gross Domestic Product.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1578556881786-851d4b79cb73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'
   },
   {
     name: "Bolivia",
@@ -141,7 +141,7 @@ export const countries = [
     area: "1,098,581 square kilometers",
     capital: "La Paz (administrative capital), Sucre (constitutional capital)",
     interestingFact: "Bolivia is known for having the world's largest salt flat, the Salar de Uyuni, which is also used as a major source of lithium.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1544142447-e43d0fe04bf2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'
   },
   {
     name: "Bosnia and Herzegovina",
@@ -149,7 +149,7 @@ export const countries = [
     area: "51,197 square kilometers",
     capital: "Sarajevo",
     interestingFact: "Bosnia and Herzegovina is known for its diverse ethnic and religious communities, and for being the site of the assassination of Archduke Franz Ferdinand, which sparked World War I.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1544329095-a7c19df83018?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80'
   },
   {
     name: "Botswana",
@@ -157,7 +157,7 @@ export const countries = [
     area: "581,730 square kilometers",
     capital: "Gaborone",
     interestingFact: "Botswana is known for its thriving diamond industry and its successful conservation efforts, particularly in protecting its elephant population.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1591005383946-16532ba69aee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80'
   },
   {
     name: "Brazil",
@@ -165,7 +165,7 @@ export const countries = [
     area: "8,515,767 square kilometers",
     capital: "Brasília",
     interestingFact: "Brazil is known for having the world's largest rainforest, the Amazon Rainforest, and for producing some of the world's best coffee.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1589394760151-b4c9890765fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1696&q=80'
   },
   {
     name: "Brunei",
@@ -173,7 +173,7 @@ export const countries = [
     area: "5,765 square kilometers",
     capital: "Bandar Seri Begawan",
     interestingFact: "Brunei is known for being one of the world's wealthiest nations due to its vast reserves of oil and natural gas.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1608477667173-5b0dfa8476e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80'
   },
   {
     name: "Bulgaria",
@@ -181,7 +181,7 @@ export const countries = [
     area: "110,994 square kilometers",
     capital: "Sofia",
     interestingFact: "Bulgaria is known for being home to some of the world's oldest gold artifacts, which date back to the 4th millennium BCE.",
-    Image: '...'
+    Image: 'https://images.unsplash.com/photo-1519429753079-3b0f0a95dea8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'
   },
   {
     name: "Burkina Faso",
@@ -189,7 +189,7 @@ export const countries = [
     area: "274,200 square kilometers",
     capital: "Ouagadougou",
     interestingFact: "Burkina Faso is known for being one of the poorest countries in the world, but also for its vibrant music and dance traditions.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1160520318/nl/foto/opwarming-van-de-aarde-droogte.jpg?s=612x612&w=0&k=20&c=0wytYMkrpo9pVHYRkeToBkRDA6AEkXy0i_PNA1V4kX4='
   },
   {
     name: "Burundi",
@@ -197,7 +197,7 @@ export const countries = [
     area: "27,834 square kilometers",
     capital: "Gitega (political capital), Bujumbura (economic capital)",
     interestingFact: "Burundi is known for being the smallest country in East Africa, and for being home to the rare and endangered mountain gorillas.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1265862331/nl/foto/afrikaanse-mensen-in-straat-van-klein-dorp-in-het-platteland-van-burundi.jpg?s=612x612&w=0&k=20&c=NYersL4lz0ZCfPcg0o2diLpL6aYv4kyVbRvUSYvMZAI='
   },
   {
     name: "Cabo Verde (Cape Verde)",
@@ -205,7 +205,7 @@ export const countries = [
     area: "4,033 square kilometers",
     capital: "Praia",
     interestingFact: "Cabo Verde is known for its beautiful beaches and for being the birthplace of Cesária Évora, a world-renowned singer of Cape Verdean music.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/675553452/nl/foto/clear-view-at-beach-with-fisher-boat.jpg?s=612x612&w=0&k=20&c=h_YVV5selOmvpIH9-OpPM6p8mI1ev2bAKBlVp3L_wvM='
   },
   {
     name: "Cambodia",
@@ -213,7 +213,7 @@ export const countries = [
     area: "181,035 square kilometers",
     capital: "Phnom Penh",
     interestingFact: "Cambodia is known for being home to the world-famous Angkor Wat temple complex, a UNESCO World Heritage site.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1407202277/nl/foto/angkor-wat.jpg?s=612x612&w=0&k=20&c=NNHwpBWuwM5VCH_4B7VffHih6JrfFDjmolZFFckLziI='
   },
   {
     name: "Cameroon",
@@ -221,7 +221,7 @@ export const countries = [
     area: "475,442 square kilometers",
     capital: "Yaoundé",
     interestingFact: "Cameroon is known for its diverse culture, which is influenced by more than 250 ethnic groups and languages.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1411238823/nl/foto/black-schoolgirl-in-the-courtyard-standing-in-the-foreground-compared-to-her-classmates.jpg?s=612x612&w=0&k=20&c=AVueEeega9H-K7D8kdpwBWzhG2FUxKkWhxcHXVQn2Rs='
   },
   {
     name: "Canada",
@@ -229,7 +229,7 @@ export const countries = [
     area: "9,984,670 square kilometers",
     capital: "Ottawa",
     interestingFact: "Canada is known for its vast and diverse natural landscape, including the Rocky Mountains, Niagara Falls, and the Northern Lights.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/514773355/nl/foto/landscape-sunset-view-of-morain-lake-and-mountain-range.jpg?s=612x612&w=0&k=20&c=ssxh6aiJ-tAMv7KweodNnGLjST09qhql0BYEp02O0L8='
   },
   {
     name: 'Central African Republic',
@@ -237,7 +237,7 @@ export const countries = [
     area: '622,984 square kilometers',
     capital: 'Bangui',
     interestingFact: 'The Central African Republic is known for being one of the poorest countries in the world, but also for its diverse wildlife, including elephants, gorillas, and leopards.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1475788527/nl/foto/central-bank-of-west-african-states-headquarters-fahd-building-and-the-harbor-dakar-senegal.jpg?s=612x612&w=0&k=20&c=AYj9_Lyn2Dq8TOYaioulcK7neLqpOGdkApX3SyY-CSE='
   },
   {
     name: 'Chad',
@@ -245,7 +245,7 @@ export const countries = [
     area: '1,284,000 square kilometers',
     capital: "N'Djamena",
     interestingFact: 'Chad is known for its large and diverse ethnic groups, including the Kanem-Bornu Empire, which was one of the longest-lasting empires in African history.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1160712138/nl/foto/luchtfoto-van-ndjamena-en-chari-of-chari-rivier-tsjaad.jpg?s=612x612&w=0&k=20&c=FbFCOY5Y3VD88lPZM56xEtkxGDwCQdYL8GXBdRb81nY='
   },
   {
     name: 'Chile',
@@ -253,7 +253,7 @@ export const countries = [
     area: '756,096 square kilometers',
     capital: 'Santiago',
     interestingFact: 'Chile is known for being the world\'s longest country, stretching over 4,300 kilometers from north to south. It is also home to the Atacama Desert, which is one of the driest places on earth.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/827067390/nl/foto/kleurrijke-valparaiso.jpg?s=612x612&w=0&k=20&c=itRLO3WPS9ime9zosanpl_lQCJPETJSwJsQdjSybkdg='
   },
   {
     name: 'China',
@@ -261,7 +261,7 @@ export const countries = [
     area: '9,596,961 square kilometers',
     capital: 'Beijing',
     interestingFact: 'China is known for being the world\'s most populous country and for having one of the world\'s oldest continuous civilizations, dating back more than 4,000 years. It is also home to the Great Wall of China, one of the Seven Wonders of the World.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/497572532/nl/foto/cityscape-of-guiyang-at-night.jpg?s=612x612&w=0&k=20&c=TWViurIP9QI_pW1E9y2TmjyhjSKuucdwTY7E0nYQOJs='
   },
   {
     name: 'Colombia',
@@ -269,7 +269,7 @@ export const countries = [
     area: '1,141,748 square kilometers',
     capital: 'Bogotá',
     interestingFact: 'Colombia is known for producing some of the world\'s finest coffee, as well as being home to a rich and diverse mix of cultures and traditions.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1148861090/nl/foto/prachtige-zonsondergang-over-cartagena-colombia.jpg?s=612x612&w=0&k=20&c=9O0dUUnoHLygCLHiLQemGN90EiRWAMTGL58H5TRqHgw='
   },
   {
     name: 'Comoros',
@@ -277,7 +277,7 @@ export const countries = [
     area: '2,235 square kilometers',
     capital: 'Moroni',
     interestingFact: 'The Comoros is known for being one of the smallest countries in Africa, as well as being home to a unique blend of African, Arabic, and French cultures.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/614207078/nl/foto/africa-comoros-anjouan.jpg?s=612x612&w=0&k=20&c=Opz17ubNq29ZqmHgExD3EgDaV2RRznxPEvlXXAFpwmo='
   },
   {
     name: 'Congo',
@@ -285,7 +285,7 @@ export const countries = [
     area: '2,345,410 square kilometers',
     capital: 'Brazzaville (Republic of the Congo), Kinshasa (Democratic Republic of the Congo)',
     interestingFact: 'The Congo is known for being the second-largest country in Africa by land area, as well as for its rich natural resources, including diamonds, gold, and copper.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/184187584/nl/foto/dhow-port-and-the-old-friday-mosque.jpg?s=612x612&w=0&k=20&c=x4F0W6Lvmb0TrZAzY_11vHrSGOhpgjn3uwh4ElR8UK0='
   },
   {
     name: 'Costa Rica',
@@ -293,7 +293,7 @@ export const countries = [
     area: '51,100 square kilometers',
     capital: 'San José',
     interestingFact: 'Costa Rica is known for being a world leader in sustainable tourism and conservation, as well as for its beautiful beaches, lush rainforests, and active volcanoes.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/863009268/nl/foto/baby-luiaard-mangrove-blad-eten.jpg?s=612x612&w=0&k=20&c=Pmpu1xqK3lXwRBOgcbDq31sj1fbyjb8QMNz7YPvUjpI='
   },
   {
     name: 'Croatia',
@@ -301,7 +301,7 @@ export const countries = [
     area: '56,542 square kilometers',
     capital: 'Zagreb',
     interestingFact: 'Croatia is known for its stunning coastline and crystal-clear waters',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/915254700/nl/foto/nacht-uitzicht-op-de-oude-stad-split-kroati%C3%AB.jpg?s=612x612&w=0&k=20&c=0cpFed6gr2uOjFeCFtrG0mawENQvvGs4hzf8z1zh9xA='
   },
   {
     name: "Cuba",
@@ -309,7 +309,7 @@ export const countries = [
     area: "109,884 square kilometers",
     capital: "Havana",
     interestingFact: "Cuba is known for its vibrant music and dance scene, as well as for being the birthplace of the mojito and the Cuba Libre, two popular cocktails.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/905996466/nl/foto/havana-cuba-skyline-van-de-binnenstad.jpg?s=612x612&w=0&k=20&c=DY0obDnbX2q0t54FNKyYBff8mqp80uhTvyEr3dZCfwM='
   },
   {
     name: "Cyprus",
@@ -317,7 +317,7 @@ export const countries = [
     area: "9,251 square kilometers",
     capital: "Nicosia",
     interestingFact: "Cyprus is known for being one of the world's oldest inhabited places, with a history dating back more than 10,000 years. It is also known for its beautiful beaches and crystal-clear waters.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1391080242/nl/foto/old-harbour-in-kyrenia-north-cyprus.jpg?s=612x612&w=0&k=20&c=TiiiAatlmhqHrJ28tlc3PnatL9XBtjmC7Ilp_WHrxcM='
   },
   {
     name: "Czech Republic",
@@ -325,7 +325,7 @@ export const countries = [
     area: "78,866 square kilometers",
     capital: "Prague",
     interestingFact: "The Czech Republic is known for its rich cultural heritage, including its stunning architecture, art, and music. It is also known for being the birthplace of some of the world's most famous beers.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1349503197/nl/foto/panoramic-view-of-cesky-krumlov-with-st-vitus-church-in-the-middle-of-historical-city-centre.jpg?s=612x612&w=0&k=20&c=uU4jysroxyMZkPozRNNJIPjyPrC2jGCr7Cb1bqEK-6w='
   },
   {
     name: "Denmark",
@@ -333,7 +333,7 @@ export const countries = [
     area: "42,943 square kilometers",
     capital: "Copenhagen",
     interestingFact: "Denmark is known for its progressive social policies, including its strong welfare system and its commitment to renewable energy.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/805118574/nl/foto/fredericia.jpg?s=612x612&w=0&k=20&c=3ucsT0PjPk3uto1LEAC9nHEC7Rh_oItMamNq22HCKoo='
   },
   {
     name: "Djibouti",
@@ -341,7 +341,7 @@ export const countries = [
     area: "23,200 square kilometers",
     capital: "Djibouti City",
     interestingFact: "Djibouti is known for being one of the hottest countries in the world, with temperatures regularly reaching over 40 degrees Celsius (104 degrees Fahrenheit).",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1076681972/nl/foto/de-weergave-van-djibouti.jpg?s=612x612&w=0&k=20&c=b2bbGPVfQ0sq4QR3SRxOlbNriXyr0SDZKlI2ZhJDaCU='
   },
   {
     name: "Dominica",
@@ -349,7 +349,7 @@ export const countries = [
     area: "751 square kilometers",
     capital: "Roseau",
     interestingFact: "Dominica is known for being one of the most naturally beautiful countries in the Caribbean, with lush rainforests, pristine beaches, and stunning waterfalls.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/588979624/nl/foto/scotts-head-village.jpg?s=612x612&w=0&k=20&c=WGLwi8DB8uL1TtcczT8jYQ7ZrnvdF3GRW-INS7kk1jc='
   },
   {
     name: "Dominican Republic",
@@ -357,7 +357,7 @@ export const countries = [
     area: "48,671 square kilometers",
     capital: "Santo Domingo",
     interestingFact: "The Dominican Republic is known for its beautiful beaches and vibrant nightlife, as well as for being the birthplace of several famous baseball players.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1204523642/nl/foto/typische-dominicaanse-kleurrijke-houten-huizen-palmbomen-op-een-emblematische.jpg?s=612x612&w=0&k=20&c=6V9QTmR4rV_Tm5SDRRYCcElw9XcaB6fg8mdiblBO0ak='
   },
   {
     name: 'Estonia',
@@ -365,7 +365,7 @@ export const countries = [
     area: '45,227 square kilometers',
     capital: 'Tallinn',
     interestingFact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/494254150/nl/foto/aerial-view-old-town-tallinn-estonia.jpg?s=612x612&w=0&k=20&c=zp28xwMGfVogdCK1bpRQIJUd_2xNzWPk16Biapm3Pu4='
     },
     {
     name: 'Ethiopia',
@@ -373,7 +373,7 @@ export const countries = [
     area: '1,104,300 square kilometers',
     capital: 'Addis Ababa',
     interestingFact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1391239391/nl/foto/hamar-village-south-ethiopia-africa.jpg?s=612x612&w=0&k=20&c=_VANTRYScmLMserdkj4aZrui5FzhxmTvI2PDpylfJ3s='
     },
     {
     name: 'Eswatini (formerly Swaziland)',
@@ -381,7 +381,7 @@ export const countries = [
     area: '17,364 square kilometers',
     capital: 'Mbabane',
     interestingFact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/811228638/nl/foto/vrouwen-in-traditionele-klederdracht-marcheren-op-umhlanga-aka-reed-dance-lobamba-swaziland.jpg?s=612x612&w=0&k=20&c=gphkW8A6Z-48jENE-DT7Th1rtcNjLlmuggr8iV9dMh4='
     },
     {
     name: 'Fiji',
@@ -389,7 +389,7 @@ export const countries = [
     area: '18,274 square kilometers',
     capital: 'Suva',
     interestingFact: 'Fiji is known for its stunning beaches, clear waters, and coral reefs, making it a popular tourist destination for scuba diving and snorkeling.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/475795759/nl/foto/traditional-houses-of-navala-village-viti-levu-fiji.jpg?s=612x612&w=0&k=20&c=bT5LJ1ZKIf66jy_5uAuSGeX21wk-9ilryorp-1ASP0w='
     },
     {
     name: 'Finland',
@@ -397,7 +397,7 @@ export const countries = [
     area: '338,424 square kilometers',
     capital: 'Helsinki',
     interestingFact: 'Finland is known for its beautiful scenery, including vast forests, numerous lakes, and the Northern Lights, as well as for being the home of Santa Claus in Lapland.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1290088943/nl/foto/blauw-huis-in-het-wonderland-van-de-winter.jpg?s=612x612&w=0&k=20&c=HhL86ApWY_qqYjWCuavB_kvkB2JIxkLQgtCyPj_z8O8='
     },
     {
     name: 'France',
@@ -405,7 +405,7 @@ export const countries = [
     area: '643,801 square kilometers',
     capital: 'Paris',
     interestingFact: 'France is famous for its fashion, art, and cuisine, including wine, cheese, and pastries. It is also home to famous landmarks such as the Eiffel Tower and the Palace of Versailles.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/157588814/nl/foto/gordes-provence-france-spring-valley-of-luberon.jpg?s=612x612&w=0&k=20&c=RhbZuOww5gemf0ddWBmIl1Sp6oWrTEdmNGhJxHeB-K8='
     },
     {
     name: 'Gambia',
@@ -413,7 +413,7 @@ export const countries = [
     area: '10,689 square kilometers',
     capital: 'Banjul',
     interestingFact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1361536781/nl/foto/kotu-beach-in-the-gambia.jpg?s=612x612&w=0&k=20&c=nv0z-LMjGpJe7hPsk6nDKKsKUGlxUV--Y9zEe5ok05A='
     },
     {
     name: 'Georgia',
@@ -421,7 +421,7 @@ export const countries = [
     area: '69,700 square kilometers',
     capital: 'Tbilisi',
     interestingFact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/476813550/nl/foto/beautiful-panoramic-view-of-tbilisi-at-sunset.jpg?s=612x612&w=0&k=20&c=-VId3vbA_Qhdi7L16BnBL5WJjwvmPcSnrvtvAJMttdY='
     },
     {
     name: 'DRC (Democratic Republic of Congo)',
@@ -429,7 +429,7 @@ export const countries = [
     area: '2,345,410 square kilometers',
     capital: 'Kinshasa',
     interestingFact: 'The Democratic Republic of Congo is known for being home to the second-largest rainforest in the world, as well as for its rich natural resources, including gold, diamonds, and copper.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1151810338/nl/foto/luchtfoto-van-een-rivier-bij-een-bai-clearing-in-het-regenwoud-congo.jpg?s=612x612&w=0&k=20&c=KoZ1lvVCsJPUOOCGfNm5qBxLiDH2elIx9ie-nYdH35w='
     },
     {
     name: 'DPRK (Democratic Peoples Republic of Korea)',
@@ -437,7 +437,7 @@ export const countries = [
     area: '120,540 square kilometers',
     capital: 'Pyongyang',
     interestingFact: 'The Democratic Peoples Republic of Korea is known for being one of the most isolated and secretive countries in the world, with strict government control over all aspects of society.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1369935031/nl/foto/pyongyang-skyline.jpg?s=612x612&w=0&k=20&c=gQOrSfnrc6NigPJ6F1jCZ6bQvkZpvLsifyVwSbSmKX8='
     },
     {
     name: 'Djibouti',
@@ -445,7 +445,7 @@ export const countries = [
     area: '23,200 square kilometers',
     capital: 'Djibouti City',
     interestingFact: 'Djibouti is known for being one of the hottest countries in the world, with temperatures regularly reaching over 40 degrees Celsius (104 degrees Fahrenheit).',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1076682798/nl/foto/djibouti-van-boven.jpg?s=612x612&w=0&k=20&c=6EqmnawWNUU7NjwXjgoNlNnG7oJbmwIEu4ZzxN9gdEY='
     },
     {
     name: 'Ecuador',
@@ -453,7 +453,7 @@ export const countries = [
     area: '283,560 square kilometers',
     capital: 'Quito',
     interestingFact: 'Ecuador is home to the Galapagos Islands, a volcanic archipelago known for its unique wildlife and Charles Darwins groundbreaking studies.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1402542865/nl/foto/cajas-national-park-mountain-lake-toreadora.jpg?s=612x612&w=0&k=20&c=qqKclSeZWWukCO51X-HPeRT3PorcLZ18aOhWmewFYyU='
     },
     {
     name: 'Egypt',
@@ -461,7 +461,7 @@ export const countries = [
     area: '1,001,450 square kilometers',
     capital: 'Cairo',
     interestingFact: 'Egypt is home to one of the worlds oldest civilizations, with a rich history dating back to ancient times, including the Pyramids of Giza and the Sphinx.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1142873955/nl/foto/de-piramides-van-gizeh-en-de-grote-sfinx-egypte.jpg?s=612x612&w=0&k=20&c=kUvCC7rjpiFA1E3fA_2xlohjrZ0_NsaflCCsqg4IARw='
     },
     {
     name: 'El Salvador',
@@ -469,7 +469,7 @@ export const countries = [
     area: '21,040 square kilometers',
     capital: 'San Salvador',
     interestingFact: 'El Salvador is known for its active volcanoes and beautiful national parks, as well as its delicious cuisine, including pupusas and horchata.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/700276130/nl/foto/boerenmarkt-in-el-salvador.jpg?s=612x612&w=0&k=20&c=OiU2YM61ykYGZZQ2uxDpG7dqfjSQQ7pmgzAQxdGtiCk='
     },
     {
     name: 'Equatorial Guinea',
@@ -477,7 +477,7 @@ export const countries = [
     area: '28,051 square kilometers',
     capital: 'Malabo',
     interestingFact: 'Equatorial Guinea is one of the smallest countries in Africa and is the only Spanish-speaking country on the continent.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/470818400/nl/foto/malabos-harbour.jpg?s=612x612&w=0&k=20&c=3uquLJHkuoQPdU1RTmG7f8csc1tPXSBrNAq-k76WezQ='
     },
     {
     name: 'Eritrea',
@@ -485,7 +485,7 @@ export const countries = [
     area: '117,600 square kilometers',
     capital: 'Asmara',
     interestingFact: 'Eritrea is located along the Red Sea and is known for its unique architecture, which combines Art Deco and Italian colonial styles.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1390515855/nl/foto/panoramic-view-to-the-medebar-market-in-the-asmara-city-center.jpg?s=612x612&w=0&k=20&c=1hFWxtaK0IpcF_7Wcvgr4hmxZXNSR5vWzZBE767JHVI='
     },
     {
     name: 'Estonia',
@@ -493,7 +493,7 @@ export const countries = [
     area: '45,227 square kilometers',
     capital: 'Tallinn',
     interestingFact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/494254150/nl/foto/aerial-view-old-town-tallinn-estonia.jpg?s=612x612&w=0&k=20&c=zp28xwMGfVogdCK1bpRQIJUd_2xNzWPk16Biapm3Pu4='
     },
     {
     name: 'Ethiopia',
@@ -501,7 +501,7 @@ export const countries = [
     area: '1,104,300 square kilometers',
     capital: 'Addis Ababa',
     interestingFact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/618832938/nl/foto/fasilidas-palace-in-fasil-ghebbi-site-gonder.jpg?s=612x612&w=0&k=20&c=myvCBrFgWhSzLuF6H80bde5B20GMtu8EbJghq-zpyXc='
     },
     {
     name: 'Eswatini (formerly Swaziland)',
@@ -509,7 +509,7 @@ export const countries = [
     area: '17,364 square kilometers',
     capital: 'Mbabane',
     interestingFact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1142200870/nl/foto/march%C3%A9-van-lausanne-stad.jpg?s=612x612&w=0&k=20&c=dIUK9A4Vzw2lfD7rEYx3uW949tCHkvGFhS3tdbl1vSQ='
     },
     {
     name: 'Fiji',
@@ -517,7 +517,7 @@ export const countries = [
     area: '18,274 square kilometers',
     capital: 'Suva',
     interestingFact: 'Fiji is known for its stunning beaches, clear waters, and coral reefs, making it a popular tourist destination for scuba diving and snorkeling.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/475795759/nl/foto/traditional-houses-of-navala-village-viti-levu-fiji.jpg?s=612x612&w=0&k=20&c=bT5LJ1ZKIf66jy_5uAuSGeX21wk-9ilryorp-1ASP0w='
     },
     {
     name: 'Finland',
@@ -525,7 +525,7 @@ export const countries = [
     area: '338,424 square kilometers',
     capital: 'Helsinki',
     interestingFact: 'Finland is known for its beautiful scenery, including vast forests, numerous lakes, and the Northern Lights, as well as for being the home of Santa Claus in Lapland.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1387126916/nl/foto/magic-lights.jpg?s=612x612&w=0&k=20&c=Oa2BjnsDdUJpi_pcTZBfB0ZV-Qtz2N8YabPXrIWc8z0='
     },
     {
     name: 'France',
@@ -533,7 +533,7 @@ export const countries = [
     area: '643,801 square kilometers',
     capital: 'Paris',
     interestingFact: 'France is famous for its fashion, art, and cuisine, including wine, cheese, and pastries. It is also home to famous landmarks such as the Eiffel Tower and the Palace of Versailles.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/108219438/nl/foto/small-harbour-belle-ile-en-mer-at-sunset.jpg?s=612x612&w=0&k=20&c=hJT1ML1uK9Ym5POSxHVC3Q4qTr_ISeIzk4sYLrgw-5M='
     },
     {
     name: 'Gambia',
@@ -541,7 +541,7 @@ export const countries = [
     area: '10,689 square kilometers',
     capital: 'Banjul',
     interestingFact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1401192149/nl/foto/river-jetty-in-the-gambia.jpg?s=612x612&w=0&k=20&c=6mKRDVU28QVzI9cJsvWFF_4Jw8pajVs5pkCVeJcwJes='
     },
     {
     name: 'Georgia',
@@ -549,7 +549,7 @@ export const countries = [
     area: '69,700 square kilometers',
     capital: 'Tbilisi',
     interestingFact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/476813550/nl/foto/beautiful-panoramic-view-of-tbilisi-at-sunset.jpg?s=612x612&w=0&k=20&c=-VId3vbA_Qhdi7L16BnBL5WJjwvmPcSnrvtvAJMttdY='
     },
   {
     name: "Germany",
@@ -557,7 +557,7 @@ export const countries = [
     area: "357,114 square kilometers",
     capital: "Berlin",
     interestingFact: "Germany is home to many famous landmarks, including the Brandenburg Gate, Neuschwanstein Castle, and the Berlin Wall.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/658000044/nl/foto/luchtfoto-van-keulen-aan-een-voorjaar.jpg?s=612x612&w=0&k=20&c=fPCFncvhcmNvG1z275AQ5K-UkUUeueWH-LlvwDYg4t0='
   },
   {
     name: "Ghana",
@@ -565,7 +565,7 @@ export const countries = [
     area: "238,533 square kilometers",
     capital: "Accra",
     interestingFact: "Ghana is known for its rich cultural heritage, including music, dance, and festivals such as the colorful Homowo festival.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1413273047/nl/foto/traditional-view-of-the-city-center-of-african-kumasi.jpg?s=612x612&w=0&k=20&c=ghSFWV5GY-PNavC4zKFgCMARzg9c5oECUjco5Xv6y8Q='
   },
   {
     name: "Greece",
@@ -573,7 +573,7 @@ export const countries = [
     area: "131,957 square kilometers",
     capital: "Athens",
     interestingFact: "Greece is known for its ancient history, including the famous Acropolis and Parthenon in Athens, as well as for its beautiful islands and Mediterranean cuisine.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/673678778/nl/foto/vissersboten-in-de-haven-van-naoussa-paros-island-griekenland.jpg?s=612x612&w=0&k=20&c=1MITK0h-jXAedEpczh9M9vUEJV9qM0FL5ErKYMGaP2I='
   },
   {
     name: "Greenland",
@@ -581,7 +581,7 @@ export const countries = [
     area: "2,166,086 square kilometers",
     capital: "Nuuk",
     interestingFact: "Greenland is the world's largest island and is covered by ice for most of the year, but it is also home to a unique culture of Inuit people and has stunning natural beauty.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/666300888/nl/foto/gele-blauwe-rode-en-groene-inuit-huizen-bedekt-met-sneeuw-op-de-fjord-van-stad-nuuk-groenland.jpg?s=612x612&w=0&k=20&c=dPJzzylZnRglBZXsOAPe62PZiNSjgVCVTieAYrsrVjs='
   },
   {
     name: "Grenada",
@@ -589,7 +589,7 @@ export const countries = [
     area: "344 square kilometers",
     capital: "St. George's",
     interestingFact: "Grenada is known as the \"Island of Spice\" because it is one of the world's largest producers of nutmeg, cloves, cinnamon, and other spices.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/654744376/nl/foto/alhambra-van-granada-spanje.jpg?s=612x612&w=0&k=20&c=artuX94WjXODSiWBYTqLjfPX_Yri5DF2KBKWEg9mcRw='
   },
   {
     name: "Guatemala",
@@ -597,7 +597,7 @@ export const countries = [
     area: "108,889 square kilometers",
     capital: "Guatemala City",
     interestingFact: "Guatemala is known for its ancient Mayan ruins, including Tikal and El Mirador, as well as for its vibrant indigenous culture and colorful traditional clothing.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/660386132/nl/foto/antigua-stad-bij-zonsopgang.jpg?s=612x612&w=0&k=20&c=djSuHXI68u5inzpKimISRz6IjeQM3onrowi2csgq0ZE='
   },
   {
     name: "Guinea",
@@ -605,7 +605,7 @@ export const countries = [
     area: "245,857 square kilometers",
     capital: "Conakry",
     interestingFact: "Guinea is rich in natural resources, including gold, diamonds, and bauxite, and has a diverse landscape ranging from rainforests to savannas.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1207678103/nl/foto/mening-van-een-typische-straat-in-het-centrum-van-conakry-guinea-west-afrika.jpg?s=612x612&w=0&k=20&c=5oj0R3jZdJCTrdgw4XmHozc4ihgKPCBC4R3wVv0GCX0='
   },
   {
     name: "Guinea-Bissau",
@@ -613,7 +613,7 @@ export const countries = [
     area: "36,125 square kilometers",
     capital: "Bissau",
     interestingFact: "Guinea-Bissau is known for its wildlife, including rare species such as the pygmy hippopotamus, and for its beautiful white-sand beaches.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1226219251/nl/foto/groep-mens-die-traditionele-maskers-draagt-die-tijdens-de-vieringen-van-carnaval-in-de-stad.jpg?s=612x612&w=0&k=20&c=THmYoldzbAjMwRNVHIuWMb4X4nrtkkRSxnVAA2v1O0s='
   },
   {
     name: "Guyana",
@@ -621,7 +621,7 @@ export const countries = [
     area: "214,969 square kilometers",
     capital: "Georgetown",
     interestingFact: "Guyana is home to the world's largest single-drop waterfall, Kaieteur Falls, as well as to a diverse population of indigenous peoples and immigrants from around the world.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1192914226/nl/foto/luchtfoto-van-de-kaieteur-falls-guyana-zuid-amerika.jpg?s=612x612&w=0&k=20&c=bmz6Q-mdLLZr_yLlUL1QbBmbU8hnFW3OoMsAHrszwlA='
   },
   {
     name: "Haiti",
@@ -629,7 +629,7 @@ export const countries = [
     area: "27,750 square kilometers",
     capital: "Port-au-Prince",
     interestingFact: "Haiti is the only country in the world that gained independence as a result of a successful slave rebellion, which ended in 1804.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/518523025/nl/foto/bustling-outdoor-market.jpg?s=612x612&w=0&k=20&c=9dfXVFslIc3W0rhqRKucvzH0a4lr3koFbtTsjM4u5gw='
   },
   {
     name: "Honduras",
@@ -637,7 +637,7 @@ export const countries = [
     area: "112,492 square kilometers",
     capital: "Tegucigalpa",
     interestingFact: "Honduras is home to the ancient Maya city of Copán, which contains some of the best-preserved Maya ruins in Central America.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1370128865/nl/foto/landscape-copan-ruinas-in-honduras.jpg?s=612x612&w=0&k=20&c=rYPIK344uiS_jbES6CPrF9yADmf0jiLBYEDtmNxSc-Y='
   },
   {
     name: "Hungary",
@@ -645,7 +645,7 @@ export const countries = [
     area: "93,030 square kilometers",
     capital: "Budapest",
     interestingFact: "Hungary is known for its thermal baths, which are fed by natural hot springs and are popular with both locals and tourists.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/529132070/nl/foto/budapest-cityscape.jpg?s=612x612&w=0&k=20&c=DcJO2GQ8u0UVjH-IBeCCu1B6cms3B1YraKIKn6E_Sao='
   },
   {
     name: "India",
@@ -653,7 +653,7 @@ export const countries = [
     area: "3.29 million square kilometers",
     capital: "New Delhi",
     interestingFact: "India is the birthplace of four major world religions: Hinduism, Buddhism, Jainism, and Sikhism.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1146517111/nl/foto/taj-mahal-mausoleum-in-agra.jpg?s=612x612&w=0&k=20&c=2FibHf_2lypN-EZOVTTSQI4A1H7ujm2cTH83UMyzxlE='
   },
   {
     name: "Indonesia",
@@ -661,7 +661,7 @@ export const countries = [
     area: "1.91 million square kilometers",
     capital: "Jakarta",
     interestingFact: "Indonesia is the world's largest archipelago, made up of more than 17,000 islands.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1140941675/nl/foto/bali-rijstterrassen.jpg?s=612x612&w=0&k=20&c=aAtWuuDndhrSdYYwoK8NUw7rp8AZAeQxAQE0tr72Rwg='
   },
   {
     name: "Iran",
@@ -669,7 +669,7 @@ export const countries = [
     area: "1.65 million square kilometers",
     capital: "Tehran",
     interestingFact: "Iran is home to one of the oldest continuous civilizations in the world, with a rich cultural heritage dating back to ancient Persia.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1247050174/nl/foto/luchtmening-van-de-horizon-van-teheran-bij-zonsondergang-met-grote-vlag-van-iran-die-in-de.jpg?s=612x612&w=0&k=20&c=40ukSIs_gJ-d5K8QkUF3zdOLnm4_Pnt-1q06WhDghXA='
   },
   {
     name: 'Iraq',
@@ -677,7 +677,7 @@ export const countries = [
     area: '438,317 square kilometers',
     capital: 'Baghdad',
     interestingFact: 'Iraq is home to the ancient city of Babylon, which was one of the most important cities of the ancient world.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/959897678/nl/foto/verkeer-en-landschap-in-dohuk-irak.jpg?s=612x612&w=0&k=20&c=a2B2hujI3_rs4pj1ATRkD10PM3Kbck6KCgTIORiyOXE='
     },
     {
     name: 'Ireland',
@@ -685,7 +685,7 @@ export const countries = [
     area: '70,273 square kilometers',
     capital: 'Dublin',
     interestingFact: 'Ireland is known for its stunning natural beauty, including rugged coastlines, rolling green hills, and misty landscapes.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1384642714/nl/foto/dublin-city-at-night.jpg?s=612x612&w=0&k=20&c=joDczQRg79XsEXP5Jf9jGpMKWKjOQQJpSq8vzKBDi8k='
     },
     {
     name: 'Israel',
@@ -693,7 +693,7 @@ export const countries = [
     area: '22,072 square kilometers',
     capital: 'Jerusalem',
     interestingFact: 'Israel is the only country in the world with a majority Jewish population, and it is considered to be the homeland of the Jewish people.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1453475016/nl/foto/jerusalem-old-city-at-night-view-from-dung-gate-towards-temple-mount-and-al-aqsa.jpg?s=612x612&w=0&k=20&c=A9BLFDwwMIaUZ_LcmLqwtnd0lsnJ4_wPtn3fUMkl6PU='
     },
     {
     name: 'Italy',
@@ -701,7 +701,7 @@ export const countries = [
     area: '301,340 square kilometers',
     capital: 'Rome',
     interestingFact: 'Italy is known for its rich history and cultural heritage, and is home to numerous UNESCO World Heritage Sites, including the Colosseum and the Leaning Tower of Pisa.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1070080094/nl/foto/bologna-emilia-romagna-itali%C3%AB.jpg?s=612x612&w=0&k=20&c=yD0Vw6v5TRyqanJ6pPYH61HxbED_JUoJGoUqwsL48hE='
     },
     {
     name: 'Ivory Coast (Cote dIvoire)',
@@ -709,7 +709,7 @@ export const countries = [
     area: '322,463 square kilometers',
     capital: 'Yamoussoukro',
     interestingFact: 'Ivory Coast is the worlds leading producer of cocoa, and also produces large quantities of coffee, palm oil, and rubber.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1245982230/nl/foto/yamoussoukro.jpg?s=612x612&w=0&k=20&c=S6W0YeHJDz7sSG0x8oeH80pIj8oxue5e_Pmy0SCVMyk='
     },
     {
     name: 'Iceland',
@@ -717,7 +717,7 @@ export const countries = [
     area: '103,000 square kilometers',
     capital: 'Reykjavik',
     interestingFact: 'Iceland is known for its breathtaking natural landscapes, including glaciers, hot springs, and volcanoes. It is also home to the worlds oldest parliament, the Althing, which was established in 930 AD.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/908111180/nl/foto/kleurrijke-noorderlicht.jpg?s=612x612&w=0&k=20&c=mm0RLQsPuvyNTDFr1yz-CD2OgsbprEsphKvexeLen9E='
     },
     {
     name: 'Japan',
@@ -725,7 +725,7 @@ export const countries = [
     area: '377,975 square kilometers',
     capital: 'Tokyo',
     interestingFact: 'Japan is known for its technological advancements, including being a world leader in robotics and producing many popular video game consoles.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1131743616/nl/foto/luchtfoto-van-tokyo-stadsbeeld-met-fuji-mountain-in-japan.jpg?s=612x612&w=0&k=20&c=R_mR9CsQw-P2NOAEt4hxOmcSBeeFa7EEdrMSmfn9f5o='
     },
     {
     name: 'Jordan',
@@ -733,7 +733,7 @@ export const countries = [
     area: '89,342 square kilometers',
     capital: 'Amman',
     interestingFact: 'Jordan is home to the ancient city of Petra, which is a UNESCO World Heritage Site and one of the New Seven Wonders of the World.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1345783387/nl/foto/arab-woman-riding-a-donkey-on-the-ed-deir-trail-in-the-ancient-city-of-petra-jordan.jpg?s=612x612&w=0&k=20&c=V8daYKbFw7a3QqKZnxlyTN7p-cDEuTmgG7UW5ECUAxY='
     },
   {
     name: "Jamaica",
@@ -741,7 +741,7 @@ export const countries = [
     area: "10,991 square kilometers",
     capital: "Kingston",
     interestingFact: "Jamaica is known for its unique musical style, including reggae, ska, and dancehall, and has produced many world-famous musicians, including Bob Marley and Jimmy Cliff.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1051435066/nl/foto/water-van-de-oceaan-in-de-buurt-van-negril-jamaica.jpg?s=612x612&w=0&k=20&c=UKw1301kX0IySZKPz2BO6G_kzIYx9dWAnqBZc7tCn6k='
   },
   {
     name: "Kazakhstan",
@@ -749,7 +749,7 @@ export const countries = [
     area: "2.72 million square kilometers",
     capital: "Nur-Sultan",
     interestingFact: "Kazakhstan is the world's largest landlocked country, and is known for its vast open spaces and nomadic traditions.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1142841058/nl/foto/astana-nur-sultan-kazachstan-centrum-van-de-stad-wolkenkrabber-zicht-op-baiterek.jpg?s=612x612&w=0&k=20&c=5sBPgQzbnJXtt1g4TRtVEMmszrrgRWimomYrjk9UtNU='
   },
   {
     name: "Kenya",
@@ -757,7 +757,7 @@ export const countries = [
     area: "580,367 square kilometers",
     capital: "Nairobi",
     interestingFact: "Kenya is known for its diverse wildlife and is home to many iconic animals, including lions, elephants, and giraffes. The country is also famous for its long-distance runners, who have won many Olympic medals.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/467754933/nl/foto/sunset.jpg?s=612x612&w=0&k=20&c=mXVIhRMB0je_VK2WXp1oSIwTTN71c0TpUqBqWivFSQw='
   },
   {
     name: "Kiribati",
@@ -765,7 +765,7 @@ export const countries = [
     area: "811 square kilometers",
     capital: "South Tarawa",
     interestingFact: "Kiribati is the only country in the world that is situated in all four hemispheres, and spans across both the equator and the International Date Line.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1257330288/nl/foto/de-stadsluchtmening-van-kolonia-in-pohnpei-micronesi%C3%AB.jpg?s=612x612&w=0&k=20&c=1EJFfcbftLDSbqk3x_dxTmvCrySS7eAVrsZKE3EuQlw='
   },
   {
     name: "Kuwait",
