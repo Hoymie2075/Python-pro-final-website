@@ -773,7 +773,7 @@ export const countries = [
     area: "17,818 square kilometers",
     capital: "Kuwait City",
     interestingFact: "Kuwait is one of the richest countries in the world in terms of GDP per capita, thanks to its large oil reserves.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1399573943/nl/foto/kuwait-city-fog.jpg?s=612x612&w=0&k=20&c=x7U2npkQMPYlrwUqJzMcuNxx2Z1gBfooIMQFvfBlmTo='
   },
   {
     name: "North Korea",
@@ -781,7 +781,7 @@ export const countries = [
     area: "120,540 square kilometers",
     capital: "Pyongyang",
     interestingFact: "North Korea is one of the most isolated countries in the world, with strict controls on information, limited access to the internet, and heavy censorship of media.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/658826116/nl/foto/noord-korea-werknemer-partij-monument.jpg?s=612x612&w=0&k=20&c=Pr_u9OSCcahGH-2q_A-n4IrOMyAuzRB68D6QFhm60vk='
   },
   {
     name: "South Korea",
@@ -789,7 +789,7 @@ export const countries = [
     area: "100,210 square kilometers",
     capital: "Seoul",
     interestingFact: "South Korea is a global leader in technology and is home to major companies like Samsung, LG, and Hyundai.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/849740668/nl/foto/luchtfoto-van-de-stad-seoul-nachts-zuid-korea.jpg?s=612x612&w=0&k=20&c=yeGiXRyObhLY_hUTPB8uaxR4M3mAdvI0eaClYsJfEs0='
   },
   {
     name: 'Kosovo',
@@ -797,7 +797,7 @@ export const countries = [
     area: '10,887 square kilometers',
     capital: 'Pristina',
     interestingFact: 'Kosovo declared its independence from Serbia in 2008, but not all countries recognize it as an independent state.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/134189105/nl/foto/panoramic-photo-of-prishtina-kosovo.jpg?s=612x612&w=0&k=20&c=UtwJhX9BWkRltxdbptF-NtEHd0aTy7Og4x9XxcizrqI='
   },
   {
     name: 'Kyrgyzstan',
@@ -805,7 +805,7 @@ export const countries = [
     area: '199,951 square kilometers',
     capital: 'Bishkek',
     interestingFact: 'Kyrgyzstan is known for its stunning mountain scenery, including the Tien Shan range and the world\'s second-largest alpine lake, Issyk-Kul.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/951300350/nl/foto/manas-standbeeld-in-de-fontein-met-stedelijke-achtergrond.jpg?s=612x612&w=0&k=20&c=6WMYm_0Bh1UOHcfQCaDGcJEV6mMUybilrY_imlUbdkk='
   },
   {
     name: 'Laos',
@@ -813,7 +813,7 @@ export const countries = [
     area: '236,800 square kilometers',
     capital: 'Vientiane',
     interestingFact: 'Laos is the only landlocked country in Southeast Asia.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/155154107/nl/foto/patuxai-in-vientiane-laos.jpg?s=612x612&w=0&k=20&c=PPqXk-Mw4IHdGDG3DYWGkGcLTOd5tvzaifZlGHnqFcc='
   },
   {
     name: 'Latvia',
@@ -821,7 +821,7 @@ export const countries = [
     area: '64,589 square kilometers',
     capital: 'Riga',
     interestingFact: 'Latvia is one of the greenest countries in the world, with more than half of its territory covered by forests, lakes, and rivers.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1437197801/nl/foto/amazing-aerial-view-of-the-statue-of-liberty-milda-in-riga-latv.jpg?s=612x612&w=0&k=20&c=S1pRcX73b5Y9sKTVJW7snQcOKYHIM1RmjHKG4gEFJvA='
   },
   {
     name: 'Lebanon',
@@ -829,7 +829,7 @@ export const countries = [
     area: '10,452 square kilometers',
     capital: 'Beirut',
     interestingFact: 'Lebanon is one of the oldest continuously inhabited countries in the world, with evidence of human settlement dating back more than 7,000 years.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/461976569/nl/foto/beirut-downtown-cityscape-mohammad-al-amin-mosque.jpg?s=612x612&w=0&k=20&c=HKCuNnrPR7wTMv8CJZ9_3W_GOaz5GRnRkUDOlk4wwjU='
   },
   {
     name: 'Lesotho',
@@ -837,7 +837,7 @@ export const countries = [
     area: '30,355 square kilometers',
     capital: 'Maseru',
     interestingFact: 'Lesotho is the only independent state in the world that lies entirely above 1,000 meters in elevation.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/829302390/nl/foto/de-stad-van-maseru-lesotho-bij-zonsondergang-omringd-door-heuvels.jpg?s=612x612&w=0&k=20&c=apuAaKoXOFxPodglAUSah81yDrWUERV3XJ5WIfA-0gI='
   },
   {
     name: 'Liberia',
@@ -845,7 +845,7 @@ export const countries = [
     area: '111,369 square kilometers',
     capital: 'Monrovia',
     interestingFact: 'Liberia was founded in the early 19th century as a colony for freed American slaves.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/636705892/nl/foto/natural-landscape-in-liberia-west-africa.jpg?s=612x612&w=0&k=20&c=xeIvpRDwwEEsn87L-ZEsBhQoeTv-vLkuhIFDYrHWr98='
   },
   {
     name: 'Libya',
@@ -853,7 +853,7 @@ export const countries = [
     area: '1.76 million square kilometers',
     capital: 'Tripoli',
     interestingFact: 'Libya is home to some of the world\'s most extensive and well-preserved Roman ruins, including the ancient city of Leptis Magna.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/154917430/nl/foto/tripoli-skyline-libya.jpg?s=612x612&w=0&k=20&c=4p4OraDaMgwlZdczfkoK2X925VgJjVasCCrJMnv-_dM='
   },
   {
     name: "Liechtenstein",
@@ -861,7 +861,7 @@ export const countries = [
     area: "160 square kilometers",
     capital: "Vaduz",
     interestingFact: "Liechtenstein is the only country in the world that is doubly landlocked, meaning it is surrounded by countries that are also landlocked.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/466029014/nl/foto/view-of-cathedral-of-st-florin-in-vaduz-liechtenstein.jpg?s=612x612&w=0&k=20&c=vNpZh4pKMTvcOASYM0xnQ2rR9BaDPO6s2gkMOIvVRHY='
     },
     {
     name: "Lithuania",
@@ -869,7 +869,7 @@ export const countries = [
     area: "65,300 square kilometers",
     capital: "Vilnius",
     interestingFact: "Lithuania is the geographic center of Europe, according to calculations based on the continent's borders.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/846157992/nl/foto/nacht-vilnius-litouwen.jpg?s=612x612&w=0&k=20&c=bMeb03QLZf0hDefE4cMWrYKeGW4KIBz0XMwUF6OsuRM='
     },
     {
     name: "Luxembourg",
@@ -877,7 +877,7 @@ export const countries = [
     area: "2,586 square kilometers",
     capital: "Luxembourg City",
     interestingFact: "Luxembourg is the world's only remaining sovereign grand duchy, meaning it is ruled by a grand duke or duchess.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1199502554/nl/foto/luxemburg-bij-zonsondergang.jpg?s=612x612&w=0&k=20&c=5trWWdDd3fUteO-g_D6CZxgUmPbxQsoYZphm50dOjiE='
     },
     {
     name: "Macedonia",
@@ -885,7 +885,7 @@ export const countries = [
     area: "25,713 square kilometers",
     capital: "Skopje",
     interestingFact: "Macedonia is known for its stunning natural beauty, including the Ohrid Lake, which is one of the oldest and deepest lakes in Europe.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1171996558/nl/foto/traditionele-huizen-in-ohrid-noord-macedoni%C3%AB.jpg?s=612x612&w=0&k=20&c=y3g0ptZmrA0QT10gMlDxSauQjsuQQJewS1DCqFL7RLk='
     },
     {
     name: "Madagascar",
@@ -893,7 +893,7 @@ export const countries = [
     area: "587,041 square kilometers",
     capital: "Antananarivo",
     interestingFact: "Madagascar is home to a variety of unique flora and fauna, including lemurs, baobab trees, and the Madagascar hissing cockroach.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1158221828/nl/foto/prachtige-landschap-van-madagaskar.jpg?s=612x612&w=0&k=20&c=JirFCQDtnqVNj7G2r5WnF5mnyhoPmBkoe8cVnCbn4T4='
     },
     {
     name: "Malawi",
@@ -901,7 +901,7 @@ export const countries = [
     area: "118,484 square kilometers",
     capital: "Lilongwe",
     interestingFact: "Lake Malawi, located in the eastern part of the country, is home to more fish species than any other lake in the world.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/514837160/nl/foto/mzuzu-malawi.jpg?s=612x612&w=0&k=20&c=yaRn9gyOtQDe4-V6A7e5CQ4JiwD0FLtmJq__8GqI6fs='
     },
     {
     name: "Malaysia",
@@ -909,7 +909,7 @@ export const countries = [
     area: "330,803 square kilometers",
     capital: "Kuala Lumpur",
     interestingFact: "Malaysia is a multicultural country with a diverse population, including Malays, Chinese, Indians, and indigenous groups.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/509105016/nl/foto/kuala-lumpur-skyline.jpg?s=612x612&w=0&k=20&c=niKbFAOZM37QMLDA74Uj7hY7TnNDNRSejCpblbKbwuA='
     },
     {
     name: "Maldives",
@@ -917,7 +917,7 @@ export const countries = [
     area: "300 square kilometers",
     capital: "Malé",
     interestingFact: "The Maldives is the lowest country in the world, with an average ground level of just 1.5 meters above sea level.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/153006184/nl/foto/maldives-villa-piles-on-water.jpg?s=612x612&w=0&k=20&c=H7LLNiKaiZ4WlBSwbxFgKfb1fKPpbtp23cA2eXZgcTg='
     },
     {
     name: 'Mali',
@@ -925,7 +925,7 @@ export const countries = [
     area: '1,240,192 square kilometers',
     capital: 'Bamako',
     interestingFact: 'Timbuktu, located in northern Mali, was once an important center of learning and trade in the region.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/493888147/nl/foto/bamako-in-mali.jpg?s=612x612&w=0&k=20&c=Hp26Ud05ED2Ai7RVIynBE-JAaUJTSsDrvZgMYJ8IdOQ='
     },
     {
     name: 'Malta',
@@ -933,7 +933,7 @@ export const countries = [
     area: '316 square kilometers',
     capital: 'Valletta',
     interestingFact: 'Malta is home to a number of historic sites and landmarks, including the Megalithic Temples of Malta, which date back to 3600 BCE.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1166661889/nl/foto/luchtfoto-van-de-dame-van-de-berg-carmel-church-st-pauls-cathedral-in-valletta-city-malta.jpg?s=612x612&w=0&k=20&c=vtXTlPwGhD_k4hPLBisx-3k_2GacRFwTmQs8dleArE0='
     },
     {
     name: 'Marshall Islands',
@@ -941,7 +941,7 @@ export const countries = [
     area: '181.43 square kilometers',
     capital: 'Majuro',
     interestingFact: 'The Marshall Islands are home to the largest atoll in the world, Kwajalein Atoll, which is also used as a missile testing site by the United States military.',
-    Image: '...'
+    Image: 'https://cdn.enjoytravel.com/img/travel-news/the-islands-are-made-up-of-870-reef-systems-and-160-coral-species.jpg'
     },
     {
     name: 'Mauritania',
@@ -949,7 +949,7 @@ export const countries = [
     area: '1,030,700 square kilometers',
     capital: 'Nouakchott',
     interestingFact: 'The ancient city of Chinguetti, located in the Sahara desert, is home to a collection of medieval manuscripts that are considered some of the most valuable in the Islamic world.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1294922884/nl/foto/sahara-express.jpg?s=612x612&w=0&k=20&c=O9bIXLuta_BNhuCIOwtV0m9DM3MW-_CC78eq8HUkc5c='
     },
     {
     name: 'Mauritius',
@@ -957,7 +957,7 @@ export const countries = [
     area: '2,040 square kilometers',
     capital: 'Port Louis',
     interestingFact: 'Mauritius is home to a number of endemic species, including the pink pigeon, which was once on the brink of extinction but has since made a comeback.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/864510358/nl/foto/luchtfoto-van-mauritius-eiland.jpg?s=612x612&w=0&k=20&c=RZZg3nGxxPiUTfg0Vh4zFKBeer-HUaaPOGRfqF1afN0='
     },
     {
     name: 'Mexico',
@@ -965,7 +965,7 @@ export const countries = [
     area: '1,964,375 square kilometers',
     capital: 'Mexico City',
     interestingFact: 'Mexico is known for its rich history and culture, including ancient Mayan and Aztec ruins, colorful traditional dress, and delicious cuisine.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/614321024/nl/foto/colored-houses-iglesia-de-san-roque-market-guanajuato-mexico.jpg?s=612x612&w=0&k=20&c=uaHBbxSP_oNJ73a33TuRM2eZdnAndurWinaLt4VRnss='
     },
     {
     name: 'Micronesia',
@@ -973,7 +973,7 @@ export const countries = [
     area: '702 square kilometers',
     capital: 'Palikir',
     interestingFact: 'Micronesia is home to some of the worlds most pristine coral reefs, making it a popular destination for divers and snorkelers.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/626815916/nl/foto/full-view-of-palau-malakal-island-and-koror.jpg?s=612x612&w=0&k=20&c=GyeplbZEWA2ASFITK_2EK96Q7zvNupcfvl6kvgv41Ds='
     },
     {
     name: "Moldova",
@@ -981,7 +981,7 @@ export const countries = [
     area: "33,846 square kilometers",
     capital: "Chisinau",
     interestingFact: "Moldova is home to the largest wine cellar in the world, the Milestii Mici Winery, which holds over 2 million bottles of wine.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1066138896/nl/foto/boven-chisinau-bij-zonsondergang-chisinau-is-de-hoofdstad-van-republiek-moldavi%C3%AB.jpg?s=612x612&w=0&k=20&c=1C5YqPKIS7fDSLy09dA-fbBwA7sg4w3kSURM_Eu6nzc='
     },
     {
     name: "Monaco",
@@ -989,7 +989,7 @@ export const countries = [
     area: "2.02 square kilometers",
     capital: "Monaco-Ville",
     interestingFact: "Monaco is the second smallest country in the world, after the Vatican City.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/469148954/nl/foto/sunset-on-montecarlo-monaco.jpg?s=612x612&w=0&k=20&c=wIhDjUI31wukMM8fLreHlOMAtDjKOVrMe9keEap8TcU='
     },
     {
     name: "Mongolia",
@@ -997,7 +997,7 @@ export const countries = [
     area: "1.56 million square kilometers",
     capital: "Ulaanbaatar",
     interestingFact: "Mongolia is known for its beautiful and rugged landscapes, including the Gobi Desert and the Altai Mountains.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/149719545/nl/foto/livestock-in-a-pasture-around-haystack-on-partly-cloudy-day.jpg?s=612x612&w=0&k=20&c=269ea7xzjP2I430F6G9ulN60TTvyaI4pSh0kK153uAY='
     },
     {
     name: "Montenegro",
@@ -1005,7 +1005,7 @@ export const countries = [
     area: "13,812 square kilometers",
     capital: "Podgorica",
     interestingFact: "Montenegro is known for its stunning coastline and historic old towns, including the fortified city of Kotor.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/641993146/nl/foto/kotor-montenegro-adriatische-zee.jpg?s=612x612&w=0&k=20&c=jBDa6McmwPSKCYWd9oEJ92baVIMr-NmANNuVZr0VSOA='
     },
     {
     name: "Morocco",
@@ -1013,7 +1013,7 @@ export const countries = [
     area: "446,550 square kilometers",
     capital: "Rabat",
     interestingFact: "Morocco is known for its vibrant culture, colorful markets, and beautiful architecture, including the stunning Hassan II Mosque in Casablanca.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1284197828/nl/foto/ait-benhaddou-kasbah-berber-zonsopgang-of-zonsondergang-uitzicht.jpg?s=612x612&w=0&k=20&c=OxlockDQioGlSePDier2OTktiAr3mFKaAB1XfvG1Fa0='
     },
     {
     name: "Mozambique",
@@ -1021,7 +1021,7 @@ export const countries = [
     area: "799,380 square kilometers",
     capital: "Maputo",
     interestingFact: "Mozambique is home to some of the most beautiful beaches and coral reefs in the world, including the stunning Bazaruto Archipelago.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/627315694/nl/foto/driving-through-mozambique-on-the-way-to-vilankulos.jpg?s=612x612&w=0&k=20&c=mcd15HYweNDVXA3vjGn1LLCRyf9N_emG2umKyDhTSms='
     },
     {
     name: "Myanmar (Burma)",
@@ -1029,7 +1029,7 @@ export const countries = [
     area: "676,578 square kilometers",
     capital: "Naypyidaw",
     interestingFact: "Myanmar is home to thousands of ancient temples and pagodas, including the famous Shwedagon Pagoda in Yangon.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/157580324/nl/foto/shwedagon-pagoda.jpg?s=612x612&w=0&k=20&c=xTegaENxDFkfegvtmDNt-BgIGNTxRysKz9QQAciZUa8='
     },
     {
     name: "Namibia",
@@ -1037,7 +1037,7 @@ export const countries = [
     area: "825,615 square kilometers",
     capital: "Windhoek",
     interestingFact: "Namibia is home to the world's largest population of free-roaming cheetahs.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1304718458/nl/foto/kleurrijke-ballons-die-over-de-berg-van-de-maanvallei-vliegen-afrika-namibi%C3%AB.jpg?s=612x612&w=0&k=20&c=WFGD4bpfT3L0RpdBSAmtUJpdWB4htJlfAMLByhqq4qE='
     },
     {
     name: 'Nauru',
@@ -1045,7 +1045,7 @@ export const countries = [
     area: '21 square kilometers',
     capital: 'Yaren District',
     interestingFact: "Nauru is the world's smallest island country.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/827284154/nl/foto/sloppenwijken-in-hanuabada-village-op-de-rand-van-port-moresby-papoea-nieuw-guinea.jpg?s=612x612&w=0&k=20&c=88eroxhTwTIzWXwKU3HaJghvAhSQIV3Fn4MFbpzG_Lg='
     },
     {
     name: 'Nepal',
@@ -1053,7 +1053,7 @@ export const countries = [
     area: '147,181 square kilometers',
     capital: 'Kathmandu',
     interestingFact: "Nepal is home to Mount Everest, the world's tallest mountain.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/584237980/nl/foto/machhapuchhre-and-terraced-fields-nepal.jpg?s=612x612&w=0&k=20&c=4Jl9STqXX-TUsWlS1BQH8UtMNrkTdAGFhMg0wuR0kE0='
     },
     {
     name: 'Netherlands',
@@ -1061,7 +1061,7 @@ export const countries = [
     area: '41,543 square kilometers',
     capital: 'Amsterdam (constitutional capital) and The Hague (seat of government)',
     interestingFact: 'The Netherlands is known for its tulips and windmills.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/918640178/nl/foto/de-skyline-van-de-stad-van-amsterdam-aan-kanaal-water-met-voorjaar-tulip-bloem-amsterdam.jpg?s=612x612&w=0&k=20&c=R7sZsMu2ngIvZG07FDJaEFJ87F0xWZL9PVbjvfIKKp8='
     },
     {
     name: 'New Zealand',
@@ -1069,7 +1069,7 @@ export const countries = [
     area: '270,467 square kilometers',
     capital: 'Wellington',
     interestingFact: 'New Zealand is famous for its breathtaking landscapes and adventure sports.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/688816090/nl/foto/weg-naar-mount-cook-zuidelijke-alpen-nieuw-zeeland.jpg?s=612x612&w=0&k=20&c=aLSf55kaj5POdJRoDaLgR5diRSG4CdgJa8Q3l64EpeU='
     },
     {
     name: 'Nicaragua',
@@ -1077,7 +1077,7 @@ export const countries = [
     area: '130,373 square kilometers',
     capital: 'Managua',
     interestingFact: 'Nicaragua has numerous active volcanoes, including one that is believed to be the worlds largest.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1201719541/nl/foto/zonsondergang-boven-granada-nicaragua.jpg?s=612x612&w=0&k=20&c=Nn0SHNC1m94BFc7DQluc1lgC--owC1WfyuD16e35C-c='
     },
     {
     name: 'Niger',
@@ -1085,7 +1085,7 @@ export const countries = [
     area: '1,267,000 square kilometers',
     capital: 'Niamey',
     interestingFact: 'Niger is home to the largest protected area of giraffes in West Africa.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1171610695/nl/foto/niamey-skyline-van-fran%C3%A7ois-mitterrand-avenue-niger.jpg?s=612x612&w=0&k=20&c=39TomMxLEPNBn0_ubWXDxHh0bhom9WBJXYxKkXh-ZNs='
     },
     {
     name: 'Nigeria',
@@ -1093,7 +1093,7 @@ export const countries = [
     area: '923,768 square kilometers',
     capital: 'Abuja',
     interestingFact: 'Nigeria is the most populous country in Africa.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/477446790/nl/foto/downtown-market-streets-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=Z_AbBclJJ5_nVwjIqFTcx89yfQnTxEtXE8NroJAq7Vw='
     },
     {
     name: 'Norway',
@@ -1101,7 +1101,7 @@ export const countries = [
     area: '385,207 square kilometers',
     capital: 'Oslo',
     interestingFact: 'Norway is known for its stunning fjords and Northern Lights.',
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1350861281/nl/foto/the-magnificent-lofoten-islands.jpg?s=612x612&w=0&k=20&c=T6I7BqdZeRlwHsrBBwZiNQ6Av_kpdmRxOIVEpeNlxoQ='
     },
     {
     name: "Oman",
@@ -1109,7 +1109,7 @@ export const countries = [
     area: "309,500 square kilometers",
     capital: "Muscat",
     interestingFact: "Oman is known for its frankincense, which has been traded for over 5,000 years and was once valued as highly as gold.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/936440920/nl/foto/muttrah-corniche-muscat-oman.jpg?s=612x612&w=0&k=20&c=Zd8V-XTkKr4LJULekDOTmHYMxSdA6VEuEiYks-_XlHc='
     },
     {
     name: "Pakistan",
@@ -1117,7 +1117,7 @@ export const countries = [
     area: "796,095 square kilometers",
     capital: "Islamabad",
     interestingFact: "Pakistan has the world's second-highest peak, K2, which is also known as Mount Godwin-Austen.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1418530769/nl/foto/heavy-flood.jpg?s=612x612&w=0&k=20&c=Q618nSldOwa8KxKmiOZLBOWlvjX5GIietuDE1Fw9rp8='
     },
     {
     name: "Palau",
@@ -1125,7 +1125,7 @@ export const countries = [
     area: "459 square kilometers",
     capital: "Ngerulmud",
     interestingFact: "Palau is known for its beautiful and diverse marine life, and it was one of the world's first countries to establish a shark sanctuary.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/961834012/nl/foto/palau-zeventig-eiland-werelderfgoed.jpg?s=612x612&w=0&k=20&c=gDnogq5IyqN_fouydc5Y5ZSsbozpkGz2par2ETANcRY='
     },
     {
     name: "Panama",
@@ -1133,7 +1133,7 @@ export const countries = [
     area: "75,517 square kilometers",
     capital: "Panama City",
     interestingFact: "The Panama Canal, which connects the Atlantic and Pacific Oceans, is one of the world's greatest engineering feats.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1264005950/nl/foto/panama-city-skyline.jpg?s=612x612&w=0&k=20&c=1d5LrJU3QfPJLtiv9442Bk9I6h7KT2ONUJEsockJYE4='
     },
     {
     name: "Papua New Guinea",
@@ -1141,7 +1141,7 @@ export const countries = [
     area: "462,840 square kilometers",
     capital: "Port Moresby",
     interestingFact: "Papua New Guinea is one of the world's most culturally diverse countries, with over 850 indigenous languages spoken.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/500046706/nl/foto/traditional-village-in-papua.jpg?s=612x612&w=0&k=20&c=mkYKrrdps6yD_xv1BCcHioNhzCOAc4NUpvh3Lq00eE4='
     },
     {
     name: "Paraguay",
@@ -1149,7 +1149,7 @@ export const countries = [
     area: "406,752 square kilometers",
     capital: "Asunción",
     interestingFact: "Paraguay is known for its traditional harp music, which is a UNESCO Intangible Cultural Heritage of Humanity.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/525336822/nl/foto/presidential-palace-in-asuncion-paraguay.jpg?s=612x612&w=0&k=20&c=AozFkS2NsuRQoSweV5UE0bZxawfrBXWvteqHBV1fyog='
     },
     {
     name: "Peru",
@@ -1157,7 +1157,7 @@ export const countries = [
     area: "496,225 square kilometers",
     capital: "Lima",
     interestingFact: "Peru is home to the ancient Incan ruins of Machu Picchu, which is one of the New Seven Wonders of the World.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/930824730/nl/foto/machu-picchu-peru.jpg?s=612x612&w=0&k=20&c=SuQuSDptlONIH3WsU09_eEsTDomwiFZxe0bcTPA8Lvg='
     },
     {
     name: "Philippines",
@@ -1165,7 +1165,7 @@ export const countries = [
     area: "300,000 square kilometers",
     capital: "Manila",
     interestingFact: "The Philippines has more than 7,000 islands, making it one of the world's largest archipelagos.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/941265352/nl/foto/filippijnse-boten-in-het-eiland-van-de-lagune-van-coron-palawan-filipijnen.jpg?s=612x612&w=0&k=20&c=diQvKKRFE9zlf_sihCnBqC-Ximn3ltr8qCisdMespkI='
     },
     {
     name: "Poland",
@@ -1173,7 +1173,7 @@ export const countries = [
     area: "312,696 square kilometers",
     capital: "Warsaw",
     interestingFact: "Poland is home to Europe's last remaining primeval forest, the Białowieża Forest, which is a UNESCO World Heritage site.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1009606890/nl/foto/warschau-koninklijk-kasteel-en-de-oude-stad-bij-zonsondergang.jpg?s=612x612&w=0&k=20&c=swkhgqQH4PYJNxeteJ_ALSu6L9BDUMuPk3dg7j0vRPo='
     },
     {
     name: "Portugal",
@@ -1181,7 +1181,7 @@ export const countries = [
     area: "92,212 square kilometers",
     capital: "Lisbon",
     interestingFact: "Portugal is the oldest country in Europe, with a history that dates back to the 12th century.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1405368575/nl/foto/porto-skyline-portugal-at-sunset.jpg?s=612x612&w=0&k=20&c=Ll71hKFtFaaTBjBuXHmE8etE6AoLzlq1SCYuwL53zOU='
     },
     {
     name: "Qatar",
@@ -1189,7 +1189,7 @@ export const countries = [
     area: "11,586 square kilometers",
     capital: "Doha",
     interestingFact: "Qatar is home to the world's largest artificial island, The Pearl-Qatar, which was built using reclaimed land and features luxury residences, hotels, and marinas.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/697863854/nl/foto/de-skyline-van-de-centrum-van-de-stad-van-doha-na-zonsondergang-qatar.jpg?s=612x612&w=0&k=20&c=ZmR5193uyHjIpqpQ9txlaYmDX9ZrvZNcaLVN2BBzFM4='
     },
     {
     name: "Romania",
@@ -1197,7 +1197,7 @@ export const countries = [
     area: "238,391 square kilometers",
     capital: "Bucharest",
     interestingFact: "The Palace of the Parliament in Bucharest is the second-largest administrative building in the world, after the Pentagon in the United States.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/526112405/nl/foto/sinaia-romania.jpg?s=612x612&w=0&k=20&c=97wGl0sgkf0MYh7P16KFDOb39E6DA0fild7ECY6w9j4='
     },
     {
     name: "rusia",
@@ -1213,7 +1213,7 @@ export const countries = [
     area: "26,338 square kilometers",
     capital: "Kigali",
     interestingFact: "Rwanda is known as the Land of a Thousand Hills due to its hilly and mountainous terrain.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1140180462/nl/foto/dak-boot-verankerd-aan-de-kust-met-rwandese-dorp-op-de-achtergrond-kivu-lake-rwanda.jpg?s=612x612&w=0&k=20&c=gOvGkL4YmhePnajByluFLOh-p_nMz--OjwZZ1h41Wwo='
     },
     {
     name: "St Kitts & Nevis",
@@ -1221,7 +1221,7 @@ export const countries = [
     area: "261 square kilometers",
     capital: "Basseterre",
     interestingFact: "St Kitts & Nevis is one of the smallest countries in the world, and the only country to have a UNESCO World Heritage Site that encompasses the entire island - Brimstone Hill Fortress National Park.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/544104548/nl/foto/port-zante-in-basseterre-town-st-kitts-and-nevis.jpg?s=612x612&w=0&k=20&c=BuJf_S9jSLx_wNqg82Smw6MIk_oGcgZNv58M1P6o5oQ='
     },
     {
     name: "St Lucia",
@@ -1229,7 +1229,7 @@ export const countries = [
     area: "616 square kilometers",
     capital: "Castries",
     interestingFact: "St Lucia is home to the world's only drive-in volcano, the Sulphur Springs, where visitors can take a mud bath in the mineral-rich hot springs.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1214918884/nl/foto/saint-lucia-caribisch-gebied-paar-op-vakantie-op-het-tropische-eiland-st-lucia-mannen-en.jpg?s=612x612&w=0&k=20&c=QVHoPIk6rH-g22EsBvUx0A41yu2fF49tUUMOquiW9bs='
     },
   {
     name: "Saint Vincent & the Grenadines",
@@ -1237,7 +1237,7 @@ export const countries = [
     area: "389 square kilometers",
     capital: "Kingstown",
     interestingFact: "The Tobago Cays, a group of small uninhabited islands in Saint Vincent & the Grenadines, are a popular destination for snorkeling and diving due to their clear waters and coral reefs.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1145168735/nl/foto/haven-van-de-stad-st-vincent-en-de-grenadines.jpg?s=612x612&w=0&k=20&c=yObEGdM7j7UePSRf2Lq3CFHVhKPiTbeI3VlcdRU2gLg='
   },
   {
     name: "Samoa",
@@ -1245,7 +1245,7 @@ export const countries = [
     area: "2,831 square kilometers",
     capital: "Apia",
     interestingFact: "Samoa is known for its traditional tattooing culture, called \"tatau\", which has been practiced for over 2,000 years.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/949400730/nl/foto/tropisch-strand-met-met-coconut-palmbomen-en-strand-huizen-op-samoa-upolu.jpg?s=612x612&w=0&k=20&c=WQXirE1Abjahyb5VVB-2vfRuwBXZJ0CvXhGxfB-soag='
   },
   {
     name: "San Marino",
@@ -1253,7 +1253,7 @@ export const countries = [
     area: "61 square kilometers",
     capital: "San Marino",
     interestingFact: "San Marino is the oldest surviving sovereign state and constitutional republic in the world, having been founded in AD 301.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/486258194/nl/foto/fortress-of-guaita-fortress-san-marino.jpg?s=612x612&w=0&k=20&c=7qrGjWXd4_GVj_h0JcP3IOfQdAToLmvLB5pFYxl95Ao='
   },
   {
     name: "Sao Tome & Principe",
@@ -1261,7 +1261,7 @@ export const countries = [
     area: "1,001 square kilometers",
     capital: "São Tomé",
     interestingFact: "Sao Tome & Principe is one of the smallest countries in Africa and is home to numerous endemic species, including the critically endangered Sao Tome shrew.",
-    Image: '...'
+    Image: 'https://cdn.thecrazytourist.com/wp-content/uploads/2017/02/Santo-Ant%C3%B3nio.jpg'
   },
   {
     name: "Saudi Arabia",
@@ -1269,7 +1269,7 @@ export const countries = [
     area: "2,149,690 square kilometers",
     capital: "Riyadh",
     interestingFact: "The world's largest oil reserve, the Ghawar Field, is located in Saudi Arabia and accounts for about half of the country's oil production.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1307771733/nl/foto/koninkrijk-saoedi-arabi%C3%AB-landschap-s-nachts-riyadh-tower-kingdom-center-kingdom-tower-riyadh.jpg?s=612x612&w=0&k=20&c=VB8pF9dgyGT2awGFrXegPv8Yw6Nvn66-6D4hbMMDPF4='
   },
   {
     name: "Senegal",
@@ -1277,7 +1277,7 @@ export const countries = [
     area: "196,712 square kilometers",
     capital: "Dakar",
     interestingFact: "Senegal is home to the pink waters of Lake Retba, which gets its unique color from a type of algae that thrives in its high salt content.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/156746488/nl/foto/panoramic-photo-of-beach-in-senegal.jpg?s=612x612&w=0&k=20&c=QiGwoXo1uzX-Hlm-eFDsFSgMC2-zGTcqv4BUzGmL9Uo='
   },
   {
     name: "Serbia",
@@ -1285,7 +1285,7 @@ export const countries = [
     area: "88,361 square kilometers",
     capital: "Belgrade",
     interestingFact: "Belgrade Fortress, located in the capital city, is over 2,000 years old and has been destroyed and rebuilt over 40 times throughout history.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/847708760/nl/foto/schepen-in-de-haven.jpg?s=612x612&w=0&k=20&c=S7jpo5_TXX37OCL54NBd0tHnHYoR0gK3uWIVMs8B0So='
   },
   {
     name: "Seychelles",
@@ -1293,7 +1293,7 @@ export const countries = [
     area: "459 square kilometers",
     capital: "Victoria",
     interestingFact: "Seychelles is home to some of the world's most beautiful beaches, including Anse Source d'Argent on La Digue Island, which has been named the world's best beach several times.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1221784138/nl/foto/la-digue-seychellen.jpg?s=612x612&w=0&k=20&c=WfPbGZy6_-buOXVZsycnse0HaKsleZx0wEEHxkewkg4='
   },
   {
     name: "Sierra Leone",
@@ -1301,7 +1301,7 @@ export const countries = [
     area: "71,740 square kilometers",
     capital: "Freetown",
     interestingFact: "Sierra Leone is known for its production of \"blood diamonds\", which are diamonds that are mined in war zones and sold to finance armed conflict against governments.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/458647411/nl/foto/freetown-city-center.jpg?s=612x612&w=0&k=20&c=d3UTo4-3hsSKcCx_1kFlKMrfE36_5QcWOwxv4o5IqL0='
   },
   {
     name: "Singapore",
@@ -1309,7 +1309,7 @@ export const countries = [
     area: "728.3 square kilometers",
     capital: "Singapore",
     interestingFact: "Singapore is one of the world's most technologically advanced countries, with one of the highest internet penetration rates in the world and a strong focus on innovation and research.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/482380340/nl/foto/singapore-skyline-and-view-of-marina-bay-at-twilight.jpg?s=612x612&w=0&k=20&c=P4T2TujIPMdoGxROi6EEXF9puUcOpE6kfg0JQY-oxrU='
   },
   {
     name: "Slovakia",
@@ -1317,7 +1317,7 @@ export const countries = [
     area: "49,035 square kilometers",
     capital: "Bratislava",
     interestingFact: "Slovakia is home to the largest ice cave in the world, the Dobšinská Ice Cave, which features unique ice formations and underground lakes.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/480428397/nl/foto/bratislava-skyline.jpg?s=612x612&w=0&k=20&c=Wsy2OAS3tZ-3q0RF2ZAIHRnPu0FKh5HHTRKi9rPbK30='
   },
   {
     name: "Slovenia",
@@ -1325,7 +1325,7 @@ export const countries = [
     area: "20,273 square kilometers",
     capital: "Ljubljana",
     interestingFact: "Slovenia is the only country in the world with \"love\" in its name - \"slovo\" means \"word\" in Slovene, and \"ljubljena\" means \"beloved\" or \"loved\".",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1192667979/nl/foto/beroemde-alpine-bled-lake-in-sloveni%C3%AB-verbazingwekkende-herfst-landschap-schilderachtig.jpg?s=612x612&w=0&k=20&c=4bfojLFatCwmtc6hobIV1QjbtSCDHevM6_BR1itcp4M='
   },
   {
     name: "Solomon Islands",
@@ -1333,7 +1333,7 @@ export const countries = [
     area: "28,896 square kilometers",
     capital: "Honiara",
     interestingFact: "The Solomon Islands are home to a large number of WWII shipwrecks and are a popular destination for divers seeking to explore the wrecks.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1433307811/nl/foto/lilisiana-village-solomon-islands.jpg?s=612x612&w=0&k=20&c=fBsZfuZKTbAV0_RVdxL38zPT8aPEe3RbINCyTTXdpSY='
   },
   {
     name: "Somalia",
@@ -1341,7 +1341,7 @@ export const countries = [
     area: "637,657 square kilometers",
     capital: "Mogadishu",
     interestingFact: "Somalia is home to some of the world's most skilled camel herders, who have a deep knowledge of camel behavior and are able to survive in harsh desert environments.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1157773952/nl/foto/mogadishu.jpg?s=612x612&w=0&k=20&c=Z6t2F0QSch7tJY66wMagCCC8mtKrrUnT157UqRMOtos='
   },
   {
     name: "South Africa",
@@ -1349,7 +1349,7 @@ export const countries = [
     area: "1,219,090 square kilometers",
     capital: "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
     interestingFact: "South Africa is home to the world's largest individually timed cycling race, the Cape Town Cycle Tour, with over 35,000 participants annually.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/682284814/nl/foto/luchtfoto-van-kaapstad.jpg?s=612x612&w=0&k=20&c=peBNMHSRtZksLpkphpLmxSqQ4RSXzlaaXHlym8r82Hg='
   },
   {
     name: "South Sudan",
@@ -1357,7 +1357,7 @@ export const countries = [
     area: "619,745 square kilometers",
     capital: "Juba",
     interestingFact: "South Sudan is the youngest country in the world, having gained independence from Sudan in 2011.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/995298728/nl/foto/vrouwen-geven-door-slager-afval-gedroogd-voor-het-eten-in-vluchtelingen-kamp-juba-zuid-soedan.jpg?s=612x612&w=0&k=20&c=5FdnzozG52pBhM19elh_Rd7xLySig1BmxHqe5JL8F98='
   },
   {
     name: "Spain",
@@ -1365,7 +1365,7 @@ export const countries = [
     area: "505,990 square kilometers",
     capital: "Madrid",
     interestingFact: "Spain is the second-largest producer of wine in the world, behind Italy, and is home to a number of famous wine regions, including Rioja and Ribera del Duero.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1179060836/nl/foto/santiago-de-compostela-cathedral-galici%C3%AB-spanje.jpg?s=612x612&w=0&k=20&c=S4YzIXDiATkRHB_BAbXoj7bjkddeKtY1bvvHFo-bjpI='
   },
   {
     name: "Sri Lanka",
@@ -1373,7 +1373,7 @@ export const countries = [
     area: "65,610 square kilometers",
     capital: "Sri Jayawardenepura Kotte (official), Colombo (commercial)",
     interestingFact: "Sri Lanka is known for its production of high-quality tea, which is a major export crop for the country.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1433774802/nl/foto/the-pettah-floating-markets-colombo-sri-lanka.jpg?s=612x612&w=0&k=20&c=3SOe8d_8rCvohCvrUxtRqGPs8DsoHVmH_baLaSxHojU='
   },
   {
     name: "Sudan",
@@ -1381,7 +1381,7 @@ export const countries = [
     area: "1,861,484 square kilometers",
     capital: "Khartoum",
     interestingFact: "Sudan is home to over 100 pyramids, which are located in the ancient city of Meroe and date back to the Kingdom of Kush.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/534056530/nl/foto/meroe-pyramids-in-the-sahara-desert-sudan.jpg?s=612x612&w=0&k=20&c=zF_W1Ks5r4J7RD5_xns0bXln_nilcDffymSH_RAMRnI='
     },
     {
     name: "Suriname",
@@ -1389,7 +1389,7 @@ export const countries = [
     area: "163,820 square kilometers",
     capital: "Paramaribo",
     interestingFact: "Suriname is one of the most ethnically diverse countries in the world, with over 20 different ethnic groups living within its borders.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1255309715/nl/foto/amazon-rainforest-sunset-panorama.jpg?s=612x612&w=0&k=20&c=sV85j7SM65zMgTmd9Bb07ZEZjgzkNI8Cvm8Y3fX6m3Y='
     },
     {
     name: "Eswatini (formerly Swaziland)",
@@ -1397,7 +1397,7 @@ export const countries = [
     area: "17,364 square kilometers",
     capital: "Mbabane (administrative), Lobamba (legislative, royal and traditional)",
     interestingFact: "Eswatini is known for its traditional Reed Dance ceremony, in which young, unmarried women dance for the king and present him with reeds as a symbol of their chastity.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1169544336/nl/foto/het-centrum-van-mbabane-hoofdstad-van-swaziland-afrika.jpg?s=612x612&w=0&k=20&c=hBa2DD6G5Cs-2mT6KREplc0jbQdTe4BvW8X42ueTdIo='
     },
     {
     name: "Sweden",
@@ -1405,7 +1405,7 @@ export const countries = [
     area: "450,295 square kilometers",
     capital: "Stockholm",
     interestingFact: "Sweden is home to the world's first national park, established in 1909 in the region of Sarek.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1314099040/nl/foto/de-oude-stadshorizon-van-stockholm-stadsgezicht-van-zweden.jpg?s=612x612&w=0&k=20&c=iFff_QfkczdB8aFpVVgGp9uN6xte6zBnyQhQBzH6ICc='
     },
     {
     name: "Switzerland",
@@ -1413,7 +1413,7 @@ export const countries = [
     area: "41,290 square kilometers",
     capital: "Bern",
     interestingFact: "Switzerland is known for its high quality of life, and has been ranked as the world's happiest country multiple times by the World Happiness Report.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1167011619/nl/foto/panorama-van-de-stad-thun-in-het-kanton-bern-met-de-alpen-en-het-meer-van-thunersee-in.jpg?s=612x612&w=0&k=20&c=AyLp-WIJnwIXNuw7cAmN6qtOdhckWanJj2Vsi6htlxw='
     },
     {
     name: "Syria",
@@ -1421,7 +1421,7 @@ export const countries = [
     area: "185,180 square kilometers",
     capital: "Damascus",
     interestingFact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/892550496/nl/foto/apocalyptische-zonsondergang.jpg?s=612x612&w=0&k=20&c=tsd0fbrhLqY2VuR7S5xboi0xAfNIOZO2HAibvuxJ-fA='
     },
     {
     name: "Taiwan",
@@ -1429,7 +1429,7 @@ export const countries = [
     area: "36,193 square kilometers",
     capital: "Taipei",
     interestingFact: "Taiwan is known for its night markets, where locals and tourists can find a variety of street food, clothing, and other goods.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/457951395/nl/foto/kaohsiungs-famous-tourist-attractions.jpg?s=612x612&w=0&k=20&c=-G5I1BZ-XwvP7w3Q2K7xKOTx7IS-1hLPfNDod0gM6VM='
     },
     {
     name: "Tajikistan",
@@ -1437,7 +1437,7 @@ export const countries = [
     area: "143,100 square kilometers",
     capital: "Dushanbe",
     interestingFact: "Tajikistan is home to the Pamir Mountains, which contain some of the highest peaks in the world and are a popular destination for hikers and mountaineers.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/859449078/nl/foto/fontein-en-de-nationale-bibliotheek-in-dushanbe-de-hoofdstad-van-tadzjikistan.jpg?s=612x612&w=0&k=20&c=VNVGjQAGslRk_7xMFCeHmWmDSur4Xq2XLff5wJckVgo='
     },
     {
     name: "Tanzania",
@@ -1445,7 +1445,7 @@ export const countries = [
     area: "947,303 square kilometers",
     capital: "Dodoma",
     interestingFact: "Tanzania is home to the Serengeti National Park, which is famous for its annual wildebeest migration and is a popular destination for wildlife safaris.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/966223418/nl/foto/mount-kilimanjaro-met-acacia-high-dynamic-range-imaging.jpg?s=612x612&w=0&k=20&c=b0nrE5a76-1YBsoh4awgpbEoa-oJApe7RPUTYqfHQ_w='
     },
   {
     name: "Sudan",
@@ -1453,7 +1453,7 @@ export const countries = [
     area: "1,861,484 square kilometers",
     capital: "Khartoum",
     interestingFact: "Sudan is home to over 100 pyramids, which are located in the ancient city of Meroe and date back to the Kingdom of Kush.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/470943812/nl/foto/sunset-view-of-khartoum-sudan.jpg?s=612x612&w=0&k=20&c=udnYfO6it4U8jPEKCr0LqnIFRYoHJZq9o-wG2GyLeaU='
   },
   {
     name: "Suriname",
@@ -1461,7 +1461,7 @@ export const countries = [
     area: "163,820 square kilometers",
     capital: "Paramaribo",
     interestingFact: "Suriname is one of the most ethnically diverse countries in the world, with over 20 different ethnic groups living within its borders.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/487082704/nl/foto/matapica-swamp.jpg?s=612x612&w=0&k=20&c=gVi4E2YykQU0gruZplQm7UY4w6KBRXe18u7I52FYwFM='
   },
   {
     name: "Eswatini (formerly Swaziland)",
@@ -1469,7 +1469,7 @@ export const countries = [
     area: "17,364 square kilometers",
     capital: "Mbabane (administrative), Lobamba (legislative, royal and traditional)",
     interestingFact: "Eswatini is known for its traditional Reed Dance ceremony, in which young, unmarried women dance for the king and present him with reeds as a symbol of their chastity.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/981929716/nl/foto/traditioneel-dorp-in-swaziland.jpg?s=612x612&w=0&k=20&c=BI5LaVfgNnpRxQbxoiS34A_wOD-0sS-qCtcwsUkzumM='
   },
   {
     name: "Sweden",
@@ -1477,7 +1477,7 @@ export const countries = [
     area: "450,295 square kilometers",
     capital: "Stockholm",
     interestingFact: "Sweden is home to the world's first national park, established in 1909 in the region of Sarek.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1314099040/nl/foto/de-oude-stadshorizon-van-stockholm-stadsgezicht-van-zweden.jpg?s=612x612&w=0&k=20&c=iFff_QfkczdB8aFpVVgGp9uN6xte6zBnyQhQBzH6ICc='
   },
   {
     name: "Switzerland",
@@ -1485,7 +1485,7 @@ export const countries = [
     area: "41,290 square kilometers",
     capital: "Bern",
     interestingFact: "Switzerland is known for its high quality of life, and has been ranked as the world's happiest country multiple times by the World Happiness Report.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1133437059/nl/foto/gone-walk-tussen-augstmatthorn-en-harder-in-de-buurt-van-interlaken-berner-oberland-switzerland.jpg?s=612x612&w=0&k=20&c=_WliCx8yvIEiPsiLdJJp3fp7ETC391W9T7YKqtHqDCM='
   },
   {
     name: "Syria",
@@ -1493,7 +1493,7 @@ export const countries = [
     area: "185,180 square kilometers",
     capital: "Damascus",
     interestingFact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/471540103/nl/foto/syrian-boy-at-turkish-border.jpg?s=612x612&w=0&k=20&c=Y_IUii_AdJG_fctWHT4ZGTyeAH1gd-dODmTUEKnLnI8='
   },
   {
     name: "Taiwan",
@@ -1501,7 +1501,7 @@ export const countries = [
     area: "36,193 square kilometers",
     capital: "Taipei",
     interestingFact: "Taiwan is known for its night markets, where locals and tourists can find a variety of street food, clothing, and other goods.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/457951395/nl/foto/kaohsiungs-famous-tourist-attractions.jpg?s=612x612&w=0&k=20&c=-G5I1BZ-XwvP7w3Q2K7xKOTx7IS-1hLPfNDod0gM6VM='
   },
   {
     name: "Tajikistan",
@@ -1509,7 +1509,7 @@ export const countries = [
     area: "143,100 square kilometers",
     capital: "Dushanbe",
     interestingFact: "Tajikistan is home to the Pamir Mountains, which contain some of the highest peaks in the world and are a popular destination for hikers and mountaineers.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/1368463676/nl/foto/national-coat-of-arms-square-dushanbe-tajikistan.jpg?s=612x612&w=0&k=20&c=5bjwi-2Z_qtLi0ihyZ9GnHk6CBteYQrc62MLNJ_aA74='
   },
   {
     name: "Tanzania",
@@ -1517,7 +1517,7 @@ export const countries = [
     area: "947,303 square kilometers",
     capital: "Dodoma",
     interestingFact: "Tanzania is home to the Serengeti National Park, which is famous for its annual wildebeest migration and is a popular destination for wildlife safaris.",
-    Image: '...'
+    Image: 'https://media.istockphoto.com/id/966223418/nl/foto/mount-kilimanjaro-met-acacia-high-dynamic-range-imaging.jpg?s=612x612&w=0&k=20&c=b0nrE5a76-1YBsoh4awgpbEoa-oJApe7RPUTYqfHQ_w='
   },
   {
   name: "Ukraine",
@@ -1525,7 +1525,7 @@ export const countries = [
   area: "603,550 square kilometers",
   capital: "Kiev",
   interestingFact: "Ukraine is the largest country entirely within Europe, and is home to a diverse range of landscapes, including the Carpathian Mountains, the Black Sea coast, and the fertile plains of the central region.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1190993364/nl/foto/oranje-zonsondergang-en-wolk-over-cityscape-kiev-oekra%C3%AFne-europa.jpg?s=612x612&w=0&k=20&c=_vVQJ4q47_p2Hf7N-rW7a_Jcgnb350orbszVENJVkAY='
   },
   {
   name: "United Arab Emirates",
@@ -1533,7 +1533,7 @@ export const countries = [
   area: "83,600 square kilometers",
   capital: "Abu Dhabi",
   interestingFact: "The United Arab Emirates is home to the Burj Khalifa, the tallest building in the world, which stands at over 828 meters tall.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1044263922/nl/foto/skyline-en-skyline-van-dubai-verenigde-arabische-emiraten.jpg?s=612x612&w=0&k=20&c=AdB7DFC3Y3HsE-MWIjHPHDwy4evqZtGDuHULGaZYyyw='
   },
   {
   name: "United Kingdom",
@@ -1541,7 +1541,7 @@ export const countries = [
   area: "243,610 square kilometers",
   capital: "London",
   interestingFact: "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/904523520/nl/foto/big-ben-klokkentoren-en-london-bus.jpg?s=612x612&w=0&k=20&c=s3Qa_Va71hIFxDVElMjUsD7YFP84T3aDLDjjnkwsUj8='
   },
   {
   name: "United States",
@@ -1549,7 +1549,7 @@ export const countries = [
   area: "9,833,520 square kilometers",
   capital: "Washington, D.C.",
   interestingFact: "The United States is home to the world's largest economy, and is a leader in technology, entertainment, and innovation.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1384422450/nl/foto/freedom-tower-and-lower-manhattan-from-new-jersey.jpg?s=612x612&w=0&k=20&c=Pzq3P9cPzrrToHZML1xhhvpIoeThA9A08VwvpgTD7hQ='
   },
   {
   name: "Uruguay",
@@ -1557,7 +1557,7 @@ export const countries = [
   area: "176,220 square kilometers",
   capital: "Montevideo",
   interestingFact: "Uruguay is known for its progressive policies, and was one of the first countries in the world to legalize same-sex marriage.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1328585023/nl/foto/jose-ignacio-lighthouse.jpg?s=612x612&w=0&k=20&c=5rOXNsxXafS94Rwk0Tq-nPL8oh5mjr2inZ50eqdZOmM='
   },
   {
   name: "Uzbekistan",
@@ -1565,7 +1565,7 @@ export const countries = [
   area: "447,400 square kilometers",
   capital: "Tashkent",
   interestingFact: "Uzbekistan is home to several historic cities along the Silk Road, including Samarkand and Bukhara, which are known for their stunning architecture and intricate mosaics.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1316900032/nl/foto/bukhara-oezbekistan-kalyan-minaret-en-madressa-sunset-twilight.jpg?s=612x612&w=0&k=20&c=oshHKSmmzoaBimoOhyQmit0KhW1Q1ovntlH4GAuCSYY='
   },
   {
   name: "Vanuatu",
@@ -1573,7 +1573,7 @@ export const countries = [
   area: "12,190 square kilometers",
   capital: "Port Vila",
   interestingFact: "Vanuatu is a popular destination for scuba diving and snorkeling, thanks to its clear waters and diverse marine life.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/673234176/nl/foto/port-vila-bay-vila-vanuatu.jpg?s=612x612&w=0&k=20&c=0iqaMaykWLpTMjtLocd-qslnjXFWTGOhxZcg8fTjxw0='
   },
   {
   name: "Vatican City",
@@ -1581,7 +1581,7 @@ export const countries = [
   area: "0.44 square kilometers",
   capital: "Vatican City",
   interestingFact: "Vatican City is the smallest country in the world, and is home to many important religious sites, including St. Peter's Basilica and the Sistine Chapel.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1371603084/nl/foto/st-peters-square.jpg?s=612x612&w=0&k=20&c=SblU_fDGMhKGN98NAKlx6UsR86vG8Zc415nlVb11GW4='
   },
   {
   name: "Venezuela",
@@ -1589,7 +1589,7 @@ export const countries = [
   area: "916,445 square kilometers",
   capital: "Caracas",
   interestingFact: "Venezuela has the largest oil reserves in the world.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/501861673/nl/foto/eastern-caracas-cloudscape-panoramic-city-view-at-mid-afternoon.jpg?s=612x612&w=0&k=20&c=Ahhh2cDGxHlPo6NwWN0me2cP8Y5c4q1AisGzgCZVqdI='
   },
   {
   name: "Vietnam",
@@ -1597,7 +1597,7 @@ export const countries = [
   area: "331,212 square kilometers",
   capital: "Hanoi",
   interestingFact: "Vietnam is known for its beautiful natural scenery, including the stunning Halong Bay.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1411008071/nl/foto/tourist-walking-around-bich-dong-pagoda-ninh-binh-vietnam.jpg?s=612x612&w=0&k=20&c=e2zXhJfnaNzGLNrOpW-3pX00VqA8Pt-kd1TkAiC2PfM='
   },
   {
   name: "Yemen",
@@ -1605,7 +1605,7 @@ export const countries = [
   area: "527,968 square kilometers",
   capital: "Sana'a",
   interestingFact: "Yemen is home to several UNESCO World Heritage Sites, including the old city of Sana'a and the ancient fortified city of Shibam.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/483372261/nl/foto/old-houses-sana-yemen.jpg?s=612x612&w=0&k=20&c=Se_CpTFuNsKTmDb4o3hfReqnDSAiHvj3MCFpgWGGZx0='
   },
   {
   name: "Zambia",
@@ -1613,7 +1613,7 @@ export const countries = [
   area: "752,612 square kilometers",
   capital: "Lusaka",
   interestingFact: "Zambia is home to Victoria Falls, one of the largest waterfalls in the world.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1337519288/nl/foto/elephants-wading-in-the-luangwa-river-zambia.jpg?s=612x612&w=0&k=20&c=tpnLXEyN-0T1rMwKLbBV-VIefKSEQTQf8bbBoZnOOzg='
   },
   {
   name: "Zimbabwe",
@@ -1621,7 +1621,7 @@ export const countries = [
   area: "390,757 square kilometers",
   capital: "Harare",
   interestingFact: "Zimbabwe is known for its ancient ruins, including the Great Zimbabwe ruins, which are believed to have been built between the 11th and 15th centuries.",
-  Image: '...'
+  Image: 'https://media.istockphoto.com/id/1081365424/nl/foto/luchtfoto-van-beroemde-victoria-falls-zimbabwe-en-zambia.jpg?s=612x612&w=0&k=20&c=S-qCoCH80XIAiioaZYlp2UmsZMZjgSxKASCVzG9Az2s='
   }
 
 ];
