@@ -74,14 +74,15 @@ body {
 }
 
 .maximgleft {
-  margin-right: 20px;
+  margin-right: 23px;
   margin-bottom: 6px;
   max-height: 35px;
   max-width: 35px;
 }
 
 .maximgright {
-  margin-left: 20px;
+  transform: scale(-1, 1);
+  margin-left: 23px;
   margin-bottom: 6px;
   max-height: 35px;
   max-width: 35px;
