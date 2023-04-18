@@ -359,30 +359,6 @@ export const countries = [
     interestingFact: "The Dominican Republic is known for its beautiful beaches and vibrant nightlife, as well as for being the birthplace of several famous baseball players.",
     Image: 'https://media.istockphoto.com/id/1204523642/nl/foto/typische-dominicaanse-kleurrijke-houten-huizen-palmbomen-op-een-emblematische.jpg?s=612x612&w=0&k=20&c=6V9QTmR4rV_Tm5SDRRYCcElw9XcaB6fg8mdiblBO0ak='
   },
-  {
-    name: 'Estonia',
-    population: 'Approximately 1.3 million people',
-    area: '45,227 square kilometers',
-    capital: 'Tallinn',
-    interestingFact: 'Estonia is known for being one of the most digitally advanced countries in the world, with a government that operates completely online and a thriving tech industry.',
-    Image: 'https://media.istockphoto.com/id/494254150/nl/foto/aerial-view-old-town-tallinn-estonia.jpg?s=612x612&w=0&k=20&c=zp28xwMGfVogdCK1bpRQIJUd_2xNzWPk16Biapm3Pu4='
-    },
-    {
-    name: 'Ethiopia',
-    population: 'Approximately 115 million people',
-    area: '1,104,300 square kilometers',
-    capital: 'Addis Ababa',
-    interestingFact: 'Ethiopia is one of the oldest countries in the world, with a history that dates back to ancient times, including the Aksumite Empire and the rock-hewn churches of Lalibela.',
-    Image: 'https://media.istockphoto.com/id/1391239391/nl/foto/hamar-village-south-ethiopia-africa.jpg?s=612x612&w=0&k=20&c=_VANTRYScmLMserdkj4aZrui5FzhxmTvI2PDpylfJ3s='
-    },
-    {
-    name: 'Eswatini (formerly Swaziland)',
-    population: 'Approximately 1.1 million people',
-    area: '17,364 square kilometers',
-    capital: 'Mbabane',
-    interestingFact: 'Eswatini is a small, landlocked country located in southern Africa and is known for its unique culture and traditions, including the annual Umhlanga (Reed Dance) ceremony.',
-    Image: 'https://media.istockphoto.com/id/811228638/nl/foto/vrouwen-in-traditionele-klederdracht-marcheren-op-umhlanga-aka-reed-dance-lobamba-swaziland.jpg?s=612x612&w=0&k=20&c=gphkW8A6Z-48jENE-DT7Th1rtcNjLlmuggr8iV9dMh4='
-    },
     {
     name: 'Fiji',
     population: 'Approximately 896,000 people',
@@ -414,14 +390,6 @@ export const countries = [
     capital: 'Banjul',
     interestingFact: 'Gambia is the smallest country on the African mainland and is known for its vibrant culture, including music, dance, and storytelling.',
     Image: 'https://media.istockphoto.com/id/1361536781/nl/foto/kotu-beach-in-the-gambia.jpg?s=612x612&w=0&k=20&c=nv0z-LMjGpJe7hPsk6nDKKsKUGlxUV--Y9zEe5ok05A='
-    },
-    {
-    name: 'Georgia',
-    population: 'Approximately 3.7 million people',
-    area: '69,700 square kilometers',
-    capital: 'Tbilisi',
-    interestingFact: 'Georgia is known for its ancient history and culture, including its unique alphabet and the medieval cave city of Uplistsikhe.',
-    Image: 'https://media.istockphoto.com/id/476813550/nl/foto/beautiful-panoramic-view-of-tbilisi-at-sunset.jpg?s=612x612&w=0&k=20&c=-VId3vbA_Qhdi7L16BnBL5WJjwvmPcSnrvtvAJMttdY='
     },
     {
     name: 'DRC (Democratic Republic of Congo)',
@@ -1416,14 +1384,6 @@ export const countries = [
     Image: 'https://media.istockphoto.com/id/1167011619/nl/foto/panorama-van-de-stad-thun-in-het-kanton-bern-met-de-alpen-en-het-meer-van-thunersee-in.jpg?s=612x612&w=0&k=20&c=AyLp-WIJnwIXNuw7cAmN6qtOdhckWanJj2Vsi6htlxw='
     },
     {
-    name: "Syria",
-    population: "18 million",
-    area: "185,180 square kilometers",
-    capital: "Damascus",
-    interestingFact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus.",
-    Image: 'https://media.istockphoto.com/id/892550496/nl/foto/apocalyptische-zonsondergang.jpg?s=612x612&w=0&k=20&c=tsd0fbrhLqY2VuR7S5xboi0xAfNIOZO2HAibvuxJ-fA='
-    },
-    {
     name: "Taiwan",
     population: "23 million",
     area: "36,193 square kilometers",
@@ -1494,30 +1454,6 @@ export const countries = [
     capital: "Damascus",
     interestingFact: "Syria is home to some of the world's most important historical sites, including the ancient city of Palmyra and the Umayyad Mosque in Damascus.",
     Image: 'https://media.istockphoto.com/id/471540103/nl/foto/syrian-boy-at-turkish-border.jpg?s=612x612&w=0&k=20&c=Y_IUii_AdJG_fctWHT4ZGTyeAH1gd-dODmTUEKnLnI8='
-  },
-  {
-    name: "Taiwan",
-    population: "23 million",
-    area: "36,193 square kilometers",
-    capital: "Taipei",
-    interestingFact: "Taiwan is known for its night markets, where locals and tourists can find a variety of street food, clothing, and other goods.",
-    Image: 'https://media.istockphoto.com/id/457951395/nl/foto/kaohsiungs-famous-tourist-attractions.jpg?s=612x612&w=0&k=20&c=-G5I1BZ-XwvP7w3Q2K7xKOTx7IS-1hLPfNDod0gM6VM='
-  },
-  {
-    name: "Tajikistan",
-    population: "9 million",
-    area: "143,100 square kilometers",
-    capital: "Dushanbe",
-    interestingFact: "Tajikistan is home to the Pamir Mountains, which contain some of the highest peaks in the world and are a popular destination for hikers and mountaineers.",
-    Image: 'https://media.istockphoto.com/id/1368463676/nl/foto/national-coat-of-arms-square-dushanbe-tajikistan.jpg?s=612x612&w=0&k=20&c=5bjwi-2Z_qtLi0ihyZ9GnHk6CBteYQrc62MLNJ_aA74='
-  },
-  {
-    name: "Tanzania",
-    population: "61 million",
-    area: "947,303 square kilometers",
-    capital: "Dodoma",
-    interestingFact: "Tanzania is home to the Serengeti National Park, which is famous for its annual wildebeest migration and is a popular destination for wildlife safaris.",
-    Image: 'https://media.istockphoto.com/id/966223418/nl/foto/mount-kilimanjaro-met-acacia-high-dynamic-range-imaging.jpg?s=612x612&w=0&k=20&c=b0nrE5a76-1YBsoh4awgpbEoa-oJApe7RPUTYqfHQ_w='
   },
   {
   name: "Ukraine",
@@ -1624,4 +1560,4 @@ export const countries = [
   Image: 'https://media.istockphoto.com/id/1081365424/nl/foto/luchtfoto-van-beroemde-victoria-falls-zimbabwe-en-zambia.jpg?s=612x612&w=0&k=20&c=S-qCoCH80XIAiioaZYlp2UmsZMZjgSxKASCVzG9Az2s='
   }
 
-];
+  ];
